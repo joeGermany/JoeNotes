@@ -1,6 +1,9 @@
+---
+tags:
+  - dates/2024/09/01
+---
 # Who is Joe?
--> [[Joe Germany]]
+[[Joe Germany]]
 
-# Research Exposition
-[[Physics-Informed Machine Learning Master Repository]]
-
+# Research Interests
+[[Physics-Informed Machine Learning]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dimensionally Consistent Learning.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dimensionally Consistent Learning.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dimensionally Consistent Learning.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dimensionally Consistent Learning.md"
+                "file": "readme.md"
               }
             }
           },
@@ -157,7 +157,7 @@
   },
   "active": "9203ccf791e97d41",
   "lastOpenFiles": [
-    "Physics-Informed Machine Learning Master Repository.md",
+    "Physics-Informed Machine Learning.md",
     "readme.md",
     "Dimensionally Consistent Learning.md",
     "Joe Germany.md",
