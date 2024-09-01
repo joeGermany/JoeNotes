@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9203ccf791e97d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test note.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test note.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test note.md"
+                "file": "home.md"
               }
             }
           },
@@ -143,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 225.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,9 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88600a7b5f376f68",
+  "active": "9203ccf791e97d41",
   "lastOpenFiles": [
+    "netlify.toml",
+    "netlify.example.toml",
     "test note.md",
+    "home.md",
     "Welcome.md",
     "Untitled",
     "JoeNotes"
