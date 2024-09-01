@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dimensionally Consistent Learning.md",
+                "file": "Physics-Informed Machine Learning/Physics-Informed Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1175ea0e71f29379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics-Informed Machine Learning/Physics-Informed Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dimensionally Consistent Learning.md",
+                "file": "Physics-Informed Machine Learning/Physics-Informed Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dimensionally Consistent Learning.md",
+                "file": "Physics-Informed Machine Learning/Physics-Informed Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dimensionally Consistent Learning.md"
+                "file": "Physics-Informed Machine Learning/Physics-Informed Machine Learning.md"
               }
             }
           },
@@ -154,17 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9203ccf791e97d41",
+  "active": "1175ea0e71f29379",
   "lastOpenFiles": [
-    "Physics-Informed Machine Learning.md",
-    "Dimensionally Consistent Learning.md",
     "readme.md",
     "Joe Germany.md",
+    "Physics-Informed Machine Learning/Dimensionally Consistent Learning.md",
+    "Physics-Informed Machine Learning/Physics-Informed Machine Learning.md",
+    "Physics-Informed Machine Learning",
     "test-note.md",
     "netlify.toml",
     "netlify.example.toml",
     "Welcome.md",
-    "Untitled",
     "JoeNotes"
   ]
 }
