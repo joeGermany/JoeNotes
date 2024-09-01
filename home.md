@@ -1,2 +1,2 @@
 home
-This is also linked to test note! [[test-note]]
+This is also linked to [[test-note]]!
