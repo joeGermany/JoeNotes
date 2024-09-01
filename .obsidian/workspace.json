@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test note.md",
+                "file": "test-note.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "test-note.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "22e3df889407cb5e",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "test-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "test-note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "test-note.md"
               }
             }
           },
@@ -170,10 +169,10 @@
   },
   "active": "9203ccf791e97d41",
   "lastOpenFiles": [
+    "home.md",
+    "test-note.md",
     "netlify.toml",
     "netlify.example.toml",
-    "test note.md",
-    "home.md",
     "Welcome.md",
     "Untitled",
     "JoeNotes"
