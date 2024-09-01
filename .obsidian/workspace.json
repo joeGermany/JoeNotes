@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics-Informed Machine Learning/Physics-Informed Machine Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1175ea0e71f29379",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics-Informed Machine Learning/Physics-Informed Machine Learning.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics-Informed Machine Learning/Physics-Informed Machine Learning.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics-Informed Machine Learning/Physics-Informed Machine Learning.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics-Informed Machine Learning/Physics-Informed Machine Learning.md"
+                "file": "readme.md"
               }
             }
           },
@@ -167,12 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1175ea0e71f29379",
+  "active": "9203ccf791e97d41",
   "lastOpenFiles": [
+    "Physics-Informed Machine Learning/Physics-Informed Machine Learning.md",
     "readme.md",
     "Joe Germany.md",
     "Physics-Informed Machine Learning/Dimensionally Consistent Learning.md",
-    "Physics-Informed Machine Learning/Physics-Informed Machine Learning.md",
     "Physics-Informed Machine Learning",
     "test-note.md",
     "netlify.toml",
