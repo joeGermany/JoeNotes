@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "Physics-Informed Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "22e3df889407cb5e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "Physics-Informed Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "Physics-Informed Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "Physics-Informed Machine Learning.md"
               }
             }
           },
@@ -157,10 +156,10 @@
   },
   "active": "9203ccf791e97d41",
   "lastOpenFiles": [
-    "Physics-Informed Machine Learning.md",
-    "readme.md",
-    "Dimensionally Consistent Learning.md",
     "Joe Germany.md",
+    "Physics-Informed Machine Learning.md",
+    "Dimensionally Consistent Learning.md",
+    "readme.md",
     "test-note.md",
     "netlify.toml",
     "netlify.example.toml",
