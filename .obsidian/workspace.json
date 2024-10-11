@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,10 +157,10 @@
   },
   "active": "9203ccf791e97d41",
   "lastOpenFiles": [
-    "Physics-Informed Machine Learning/Physics-Informed Machine Learning.md",
-    "readme.md",
     "Joe Germany.md",
+    "Physics-Informed Machine Learning/Physics-Informed Machine Learning.md",
     "Physics-Informed Machine Learning/Dimensionally Consistent Learning.md",
+    "readme.md",
     "Physics-Informed Machine Learning",
     "test-note.md",
     "netlify.toml",
