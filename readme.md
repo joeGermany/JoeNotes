@@ -11,4 +11,3 @@ I am currently interested and working on a project in physics-informed machine l
 Some related webpages which I hope to develop:
 - [[Physics-Informed Machine Learning]]
 - [[Dimensionally Consistent Learning]]
-- 
