@@ -156,12 +156,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,14 +175,14 @@
   },
   "active": "9203ccf791e97d41",
   "lastOpenFiles": [
-    "Joe Germany.md",
-    "readme.md",
-    "Physics-Informed Machine Learning/Bibliography Notes/hornik1989 Multilayer feedforward networks are universal approximators.md",
+    "Physics-Informed Machine Learning/Hamiltonian Neural Networks and related architectures.md",
     "Physics-Informed Machine Learning/Solving Differential Equations using Neural Networks.md",
     "Physics-Informed Machine Learning/Symbolic Hamiltonian Regression Methods.md",
+    "readme.md",
+    "Joe Germany.md",
+    "Physics-Informed Machine Learning/Bibliography Notes/hornik1989 Multilayer feedforward networks are universal approximators.md",
     "Physics-Informed Machine Learning/SympNet and symplectic, structure-preserving networks.md",
     "Physics-Informed Machine Learning/Traditional Methods for solving Hamiltonian Systems.md",
-    "Physics-Informed Machine Learning/Hamiltonian Neural Networks and related architectures.md",
     "Physics-Informed Machine Learning/Bibliography Notes/greydanus2019 Hamiltonian Neural Networks.md",
     "Physics-Informed Machine Learning/Dimension-Preserving Networks and BuckiNet.md",
     "Physics-Informed Machine Learning/Images",

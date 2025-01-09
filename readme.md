@@ -1,7 +1,3 @@
----
-tags:
-  - dates/2024/09/01
----
 # Who am I?
 I am Joe Germany, a first-year university student at the American University of Beirut, double majoring in Pure Mathematics and Physics.
 # Research Interests
