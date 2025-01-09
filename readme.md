@@ -7,6 +7,7 @@ I am Joe Germany, a first-year university student at the American University of 
 # Research Interests
 I am currently interested and working on a number of projects in the field of physics-informed machine learning with a special focus on Hamiltonian mechanics. Supervised by Dr. Sara Najem and Dr. Joseph Bakarji, I am working on creating data-driven techniques for the discovery of the Hamiltonian expression of a dynamical systems and for predicting its temporal evolution, while preserving inherent properties of the system (like symplecticity).
 You can find the website of our research lab at: [Data-Driven Modeling Lab - Joseph Bakarji](https://www.josephbakarji.com/data-driven-modeling-lab)
+
 I am also in the process of writing up an interactive survey (being progressively published on this website) on the field of physics-informed machine learning with particular focus on techniques for the treatment of Hamiltonian systems. You can find it here: [[Survey on the Techniques of Physics-Informed Machine Learning]].
 
 # Online CV
