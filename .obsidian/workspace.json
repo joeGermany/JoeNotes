@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics-Informed Machine Learning/Survey on the Techniques of Physics-Informed Machine Learning.md",
+                "file": "Physics-Informed Machine Learning/Hamiltonian Neural Networks and related architectures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Survey on the Techniques of Physics-Informed Machine Learning"
+              "title": "Hamiltonian Neural Networks and related architectures"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics-Informed Machine Learning/Survey on the Techniques of Physics-Informed Machine Learning.md",
+                "file": "Physics-Informed Machine Learning/Hamiltonian Neural Networks and related architectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Survey on the Techniques of Physics-Informed Machine Learning"
+              "title": "Backlinks for Hamiltonian Neural Networks and related architectures"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics-Informed Machine Learning/Survey on the Techniques of Physics-Informed Machine Learning.md",
+                "file": "Physics-Informed Machine Learning/Hamiltonian Neural Networks and related architectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Survey on the Techniques of Physics-Informed Machine Learning"
+              "title": "Outgoing links from Hamiltonian Neural Networks and related architectures"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics-Informed Machine Learning/Survey on the Techniques of Physics-Informed Machine Learning.md"
+                "file": "Physics-Informed Machine Learning/Hamiltonian Neural Networks and related architectures.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Survey on the Techniques of Physics-Informed Machine Learning"
+              "title": "Outline of Hamiltonian Neural Networks and related architectures"
             }
           },
           {
@@ -176,9 +176,14 @@
   },
   "active": "9203ccf791e97d41",
   "lastOpenFiles": [
-    "Physics-Informed Machine Learning/Survey on the Techniques of Physics-Informed Machine Learning.md",
-    "Physics-Informed Machine Learning/SympNet and symplectic, structure-preserving networks.md",
+    "Physics-Informed Machine Learning/Dimension-Preserving Networks and BuckiNet.md",
+    "Physics-Informed Machine Learning/Solving Differential Equations using Neural Networks.md",
+    "Physics-Informed Machine Learning/Neural Networks based on Techniques from Classical Mechanics.md",
     "Physics-Informed Machine Learning/Hamiltonian Neural Networks and related architectures.md",
+    "Survey on the Techniques of Physics-Informed Machine Learning.md",
+    "Physics-Informed Machine Learning/Symbolic Hamiltonian Regression Methods.md",
+    "Physics-Informed Machine Learning/Traditional Methods for solving Hamiltonian Systems.md",
+    "Physics-Informed Machine Learning/SympNet and symplectic, structure-preserving networks.md",
     "Physics-Informed Machine Learning/Dimensionally Consistent Learning.md",
     "readme.md",
     "Joe Germany.md",

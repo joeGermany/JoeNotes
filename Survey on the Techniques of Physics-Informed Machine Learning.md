@@ -3,6 +3,8 @@ This survey, in the format of an interactive Obsidian vault, will constitute a s
 - [[Traditional Methods for solving Hamiltonian Systems]]
 - [[Hamiltonian Neural Networks and related architectures]]
 - [[SympNet and symplectic, structure-preserving networks]]
-- [[]]
 
-Backlinks: 
+Below are a few, additional that are pertinent to my research: 
+- [[Dimension-Preserving Networks and BuckiNet]]
+- [[Symbolic Hamiltonian Regression Methods]]
+- [[Neural Networks based on Techniques from Classical Mechanics]]
