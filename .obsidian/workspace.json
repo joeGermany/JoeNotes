@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics-Informed Machine Learning/Bibliography Notes/hornik1989 Multilayer feedforward networks are universal approximators.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hornik1989 Multilayer feedforward networks are universal approximators"
+              "title": "readme"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics-Informed Machine Learning/Bibliography Notes/hornik1989 Multilayer feedforward networks are universal approximators.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hornik1989 Multilayer feedforward networks are universal approximators"
+              "title": "Backlinks for readme"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics-Informed Machine Learning/Bibliography Notes/hornik1989 Multilayer feedforward networks are universal approximators.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from hornik1989 Multilayer feedforward networks are universal approximators"
+              "title": "Outgoing links from readme"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics-Informed Machine Learning/Bibliography Notes/hornik1989 Multilayer feedforward networks are universal approximators.md"
+                "file": "readme.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of hornik1989 Multilayer feedforward networks are universal approximators"
+              "title": "Outline of readme"
             }
           },
           {
@@ -176,14 +176,15 @@
   },
   "active": "9203ccf791e97d41",
   "lastOpenFiles": [
+    "Joe Germany.md",
+    "readme.md",
+    "Physics-Informed Machine Learning/Bibliography Notes/hornik1989 Multilayer feedforward networks are universal approximators.md",
     "Physics-Informed Machine Learning/Solving Differential Equations using Neural Networks.md",
     "Physics-Informed Machine Learning/Symbolic Hamiltonian Regression Methods.md",
     "Physics-Informed Machine Learning/SympNet and symplectic, structure-preserving networks.md",
     "Physics-Informed Machine Learning/Traditional Methods for solving Hamiltonian Systems.md",
     "Physics-Informed Machine Learning/Hamiltonian Neural Networks and related architectures.md",
     "Physics-Informed Machine Learning/Bibliography Notes/greydanus2019 Hamiltonian Neural Networks.md",
-    "Physics-Informed Machine Learning/Bibliography Notes/hornik1989 Multilayer feedforward networks are universal approximators.md",
-    "Joe Germany.md",
     "Physics-Informed Machine Learning/Dimension-Preserving Networks and BuckiNet.md",
     "Physics-Informed Machine Learning/Images",
     "Physics-Informed Machine Learning/Bibliography Notes",
@@ -191,7 +192,6 @@
     "Physics-Informed Machine Learning/Neural Networks based on Techniques from Classical Mechanics.md",
     "Survey on the Techniques of Physics-Informed Machine Learning.md",
     "Physics-Informed Machine Learning/Dimensionally Consistent Learning.md",
-    "readme.md",
     "Physics-Informed Machine Learning",
     "test-note.md",
     "netlify.toml",
