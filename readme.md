@@ -13,6 +13,9 @@ I am also in the process of writing up an interactive survey (being progressivel
 # Online CV
 ## Education
 - Currently enrolled (starting Fall 2024) in a B.S in Mathematics and Physics (double major), American University of Beirut (Current GPA: 4.3/4.3)
+- International Baccalaureate Diploma, Saint Joseph School Cornet Chehwan
+	- Final grade: 43/45 on IB diploma with 7/7 in high-level mathematics, physics, and chemistry
+	- Graduated as Valedictorian ([Valedictorian Address](https://www.facebook.com/100001623693571/videos/pcb.8039809246083119/1533947113823415))
 ## Honors and Awards
 - Recipient of prestigious AUB President Merit Scholarship (1 out of 10 university-wide; full tuition coverage)
 - 1590/1600 SAT Score (790 Math; 800 English)
