@@ -17,9 +17,10 @@ I am also in the process of writing up an interactive survey (being progressivel
 - Recipient of prestigious AUB President Merit Scholarship (1 out of 10 university-wide; full tuition coverage)
 - 1590/1600 SAT Score (790 Math; 800 English)
 - 2022, 2023 participant in the high-school Summer Research Experience in Physics at AUB. I worked on the following projects:
-	- Using 
-	- Analyzing diffusion of a 
+	- Analytically and computationally analyzing the precession of mercury and the bending of light 
+	- Analyzing diffusion in networks
+	- Using Faster RCNN-like technology to track Whirligig beetles and analyzing their behavior
 - 2018, 2022, 2023 National Robotics Champion (1st Place) in national World Robotics Olympiad competition
 - Ranked 7th overall out of 71 teams in 2022 international World Robotics Olympiad (Senior Category) in Dortmund, Germany and 3rd worldwide in impromptu 2nd day challenge
-- 1st Place in 2022 AUB Math, Science, and Technology Fair, presenting a project in computational physics on analyzing the emergence of chaos in the double pendulum
-- Secretary General (1st Place) in 2022 LAU GCMUN and Diplomacy award (2nd Place) in 2021 LAB MAL competition
+- 1st Place in 2023 AUB Math, Science, and Technology Fair, presenting a project in computational physics on analyzing the emergence of chaos in the double pendulum
+- Secretary General (1st Place) in 2023 GC LAU MUN and Diplomacy award (2nd Place) in 2022 LAB MAL competition
