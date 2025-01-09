@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hornik1989 Multilayer feedforward networks are universal approximators.md",
+                "file": "Physics-Informed Machine Learning/hornik1989 Multilayer feedforward networks are universal approximators.md",
                 "mode": "source",
                 "source": false
               },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hornik1989 Multilayer feedforward networks are universal approximators.md",
+                "file": "Physics-Informed Machine Learning/hornik1989 Multilayer feedforward networks are universal approximators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hornik1989 Multilayer feedforward networks are universal approximators.md",
+                "file": "Physics-Informed Machine Learning/hornik1989 Multilayer feedforward networks are universal approximators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hornik1989 Multilayer feedforward networks are universal approximators.md"
+                "file": "Physics-Informed Machine Learning/hornik1989 Multilayer feedforward networks are universal approximators.md"
               },
               "icon": "lucide-list",
               "title": "Outline of hornik1989 Multilayer feedforward networks are universal approximators"
@@ -174,11 +174,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9203ccf791e97d41",
+  "active": "9ab8c5916afac82c",
   "lastOpenFiles": [
     "Physics-Informed Machine Learning/Solving Differential Equations using Neural Networks.md",
-    "hornik1989 Multilayer feedforward networks are universal approximators.md",
-    "Physics-Informed Machine Learning/Bibliography Notes/greydanus2019 Hamiltonian Neural Networks.md",
+    "Physics-Informed Machine Learning/hornik1989 Multilayer feedforward networks are universal approximators.md",
+    "Physics-Informed Machine Learning/greydanus2019 Hamiltonian Neural Networks.md",
     "Physics-Informed Machine Learning/Hamiltonian Neural Networks and related architectures.md",
     "Physics-Informed Machine Learning/Images",
     "Physics-Informed Machine Learning/Bibliography Notes",
