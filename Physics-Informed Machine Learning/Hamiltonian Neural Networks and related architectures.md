@@ -1,4 +1,5 @@
 - Hamiltonian Neural Networks
+	![[HamiltonianNeuralNetwork.png]]
 - Lagrangian Neural Networks
 - Symplectic Recurrent Neural Networks
 
