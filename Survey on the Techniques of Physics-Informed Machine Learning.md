@@ -7,4 +7,3 @@ This survey, in the format of an interactive Obsidian vault, will constitute a s
 Below are a few, additional that are pertinent to my research: 
 - [[Dimension-Preserving Networks and BuckiNet]]
 - [[Symbolic Hamiltonian Regression Methods]]
-- [[Neural Networks based on Techniques from Classical Mechanics]]
