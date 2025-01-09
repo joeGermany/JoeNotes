@@ -5,15 +5,15 @@ tags:
 # Who am I?
 I am Joe Germany, a first-year university student at the American University of Beirut, double majoring in Pure Mathematics and Physics.
 # Research Interests
-I am currently interested and working on a number of projects in the field of physics-informed machine learning with a special focus on Hamiltonian mechanics. Supervised by Dr. Sara Najem and Dr. Joseph Bakarji, I am working on creating data-driven techniques for the discovery of the Hamiltonian expression of a dynamical systems and for its predicting its temporal evolution, while preserving symplecticity.
-You can find the website of our research lab (Data-Driven Modeling Lab) at: [Data-Driven Modeling Lab - Joseph Bakarji](https://www.josephbakarji.com/data-driven-modeling-lab)
-
+I am currently interested and working on a number of projects in the field of physics-informed machine learning with a special focus on Hamiltonian mechanics. Supervised by Dr. Sara Najem and Dr. Joseph Bakarji, I am working on creating data-driven techniques for the discovery of the Hamiltonian expression of a dynamical systems and for predicting its temporal evolution, while preserving inherent properties of the system (like symplecticity).
+You can find the website of our research lab at: [Data-Driven Modeling Lab - Joseph Bakarji](https://www.josephbakarji.com/data-driven-modeling-lab)
 I am also in the process of writing up an interactive survey (being progressively published on this website) on the field of physics-informed machine learning with particular focus on techniques for the treatment of Hamiltonian systems. You can find it here: [[Survey on the Techniques of Physics-Informed Machine Learning]].
 
 # Online CV
 ## Education
-- Currently enrolled (starting Fall 2024) in a B.S in Mathematics and Physics (double major), American University of Beirut (Current GPA: 4.3/4.3)
-- International Baccalaureate Diploma, Saint Joseph School Cornet Chehwan
+- Currently enrolled (starting Fall 2024) in a B.S in Mathematics and Physics (double major), American University of Beirut 
+	- Current GPA: 4.3/4.3
+- International Baccalaureate Diploma, Saint Joseph School, Cornet Chehwan, Lebanon
 	- Final grade: 43/45 on IB diploma with 7/7 in high-level mathematics, physics, and chemistry
 	- Graduated as Valedictorian ([Valedictorian Address](https://www.facebook.com/100001623693571/videos/pcb.8039809246083119/1533947113823415))
 ## Honors and Awards
