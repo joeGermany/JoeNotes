@@ -1,5 +1,6 @@
 - Hamiltonian Neural Networks
 	![[HamiltonianNeuralNetwork.png]]
+	This class of networks...
 - Lagrangian Neural Networks
 - Symplectic Recurrent Neural Networks
 
