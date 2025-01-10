@@ -1,0 +1,3 @@
+For two arbitrary functions $f$ and $g$, the Poisson bracket (with respect to the conjugate variables $\mathbf{q}$ and $\mathbf{p}$) is defined as $\{f, g\}_{q,p} = \sum_{k=1}^{N} \left (\frac{\partial f}{\partial q_k} \frac{\partial g}{\partial p_k} - \frac{\partial f}{\partial p_k} \frac{\partial g}{\partial q_k} \right)$[^1].
+
+[^1]:  Hand, L. N., & Finch, J. D. (1998). Analytical Mechanics. Cambridge University Press.

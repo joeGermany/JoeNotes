@@ -1,8 +1,7 @@
-- Hamiltonian Neural Networks
-	![[HamiltonianNeuralNetwork.png]]
-	This class of networks...
-- Lagrangian Neural Networks
-- Symplectic Recurrent Neural Networks
+## Hamiltonian Neural Networks
+## Lagrangian Neural Networks
+
+## Symplectic Recurrent Neural Networks
 
 Techniques based on classical mechanics concepts:
 - Data-driven Prediction of General Hamiltonian Dynamics via Learning Exactly-Symplectic Maps

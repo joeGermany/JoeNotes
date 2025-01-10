@@ -1,3 +1,5 @@
+## Generating Function Neural Network
+...
 ## Action-Angle Networks
 ### Physics Insight
 There is a subclass of Hamiltonian systems called [[Liouville integrable systems]].
@@ -20,6 +22,9 @@ The loss function of the action-angle network has the following two terms:
 - $L_{\text{predict}} = \frac{1}{1 + \Delta t} \sum_{t_0 \in \text{Tr}} ||\mathcal{M} (u(t_0), \Delta t) - u(t_0 + \Delta t)||^2$, and
 - $L_{\text{action}} =  \frac{1}{T} \left (\hat{I} (t_0) - \frac{1}{T} \sum_{t_0 \in \text{Tr}} \hat{I}(t_0) \right)$ (this term is to enforce the constancy of the action variable),
 where $\text{Tr}$ is the training data composed of position $q(t)$ and momentum $p(t)$ data for a number of time steps.
+
+## The Hamilton-Jacobi Equation in Optimal Control Setting
+Karniadakis's two papers 
 
 [^1]:  Daigavane, A., Kosmala, A., Cranmer, M., Smidt, T., & Ho, S. (2022). Learning Integrable Dynamics with Action-Angle Networks. [https://arxiv.org/abs/2211.15338](https://arxiv.org/abs/2211.15338)
 
