@@ -10,6 +10,7 @@ The paper adopts an autoencoder-type architecture:
 - **Evolve** step: they take advantage of the fact that the angle coordinate evolves linearly with time to use the Euler update rule to get $\theta (t + \Delta t)$*, and
 - **Decode** step: they use the inverse of the GSympNet network to go back to position-momentum at the new time step 
   N.B.: GSympNets are very easily invertible by just reserving order of the gradient modules and negating their learnable parameters. For more details, check again[^2]
+
 \*: the $\dot{\theta} (t)$ (used in the euler update rule in the evolve step) is approximated using a multi-layer perceptron.
 
 This is the schematic of the architecture (image taken from the paper[^1]):
