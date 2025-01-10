@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other architectures.md",
+                "file": "Physics-Informed Machine Learning/Other architectures.md",
                 "mode": "source",
                 "source": false
               },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other architectures.md",
+                "file": "Physics-Informed Machine Learning/Other architectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other architectures.md",
+                "file": "Physics-Informed Machine Learning/Other architectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -176,14 +176,14 @@
   },
   "active": "9203ccf791e97d41",
   "lastOpenFiles": [
-    "Survey on the Techniques of Physics-Informed Machine Learning.md",
-    "Other architectures.md",
-    "Physics-Informed Machine Learning/Dimension-Preserving Networks and BuckiNet.md",
-    "Physics-Informed Machine Learning/SympNet and other symplectic, structure-preserving networks.md",
-    "Physics-Informed Machine Learning/Solving Differential Equations using Neural Networks.md",
-    "Physics-Informed Machine Learning/Symbolic Hamiltonian Regression Methods.md",
-    "Physics-Informed Machine Learning/Traditional Methods for solving Hamiltonian Systems.md",
     "Physics-Informed Machine Learning/Hamiltonian Neural Networks and related architectures.md",
+    "Physics-Informed Machine Learning/Symbolic Hamiltonian Regression Methods.md",
+    "Physics-Informed Machine Learning/Solving Differential Equations using Neural Networks.md",
+    "Physics-Informed Machine Learning/SympNet and other symplectic, structure-preserving networks.md",
+    "Physics-Informed Machine Learning/Other architectures.md",
+    "Survey on the Techniques of Physics-Informed Machine Learning.md",
+    "Physics-Informed Machine Learning/Dimension-Preserving Networks and BuckiNet.md",
+    "Physics-Informed Machine Learning/Traditional Methods for solving Hamiltonian Systems.md",
     "readme.md",
     "Joe Germany.md",
     "Physics-Informed Machine Learning/Bibliography Notes/hornik1989 Multilayer feedforward networks are universal approximators.md",
