@@ -1,11 +1,21 @@
-## Hamiltonian Neural Networks
-## Lagrangian Neural Networks
+- [[Hamiltonian Neural Networks]]
+- [[Symplectic Recurrent Neural Networks]]
+- [[Hamiltonian Generative Networks]]
+- [[Symplectic ODE-Net]]
+- [[Hamiltonian Graph Networks with ODE Integrators]]
+- [[Nonseparable Symplectic Neural Networks]]
+- [[Taylor-Net]]
+- [[Simplifying Hamiltonian and Lagrangian Neural Networks via Explicit Constraints]]
+- 
 
-## Symplectic Recurrent Neural Networks
+## Lagrangian-related Neural Network Architectures
+- [[Lagrangian Neural Networks]]
+- [[Deep Lagrangian Networks]]
 
-Techniques based on classical mechanics concepts:
-- Data-driven Prediction of General Hamiltonian Dynamics via Learning Exactly-Symplectic Maps
-- Action-Angle Networks
+## Port-Hamiltonian Networks
+- 
+
+Lutter et al., 2019; Toth et al., 2020; Zhong et al., 2020; Wu et al., 2020; Xiong et al., 2021), a
 
 # References
 - [[greydanus2019 Hamiltonian Neural Networks]]
