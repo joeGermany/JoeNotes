@@ -23,4 +23,4 @@ I am also in the process of writing up an interactive survey (being progressivel
 - 2018, 2022, 2023 National Robotics Champion (1st Place) in national World Robotics Olympiad competition
 - Ranked 7th overall out of 71 teams in 2022 international World Robotics Olympiad (Senior Category) in Dortmund, Germany and 3rd worldwide in impromptu 2nd day challenge
 - 1st Place in 2023 AUB Math, Science, and Technology Fair, presenting a project in computational physics on analyzing the emergence of chaos in the double pendulum
-- Secretary General (1st Place) in 2023 GC LAU MUN and Diplomacy award (2nd Place) in 2022 LAB MAL competition
+- Secretary General (1st Place) in 2023 GC LAU MUN and Diplomacy award (2nd Place) in 2022 LAU MAL competition
