@@ -1,0 +1,3 @@
+A [[Hamiltonian system]] with $n$ degrees of freedom is said to be (Liouville) integrable (also sometimes called completely integrable) if it has $n$ **independent** **[[first integrals]]** [[in involution]][^1].
+
+[^1]: Arnold, V. I. (1989). Mathematical Methods of Classical Mechanics. In Graduate Texts in Mathematics. Springer New York. https://doi.org/10.1007/978-1-4757-2063-1 [[arnold1989 Mathematical Methods for Classical Mechanics]]

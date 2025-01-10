@@ -6,6 +6,8 @@ You can find the website of our research lab at: [Data-Driven Modeling Lab - Jos
 
 I am also in the process of writing up an interactive survey (being progressively published on this website) on the field of physics-informed machine learning with particular focus on techniques for the treatment of Hamiltonian systems. You can find it here: [[Survey on the Techniques of Physics-Informed Machine Learning]].
 
+You can contact me at: jmg15@mail.aub.edu
+
 # Online CV
 ## Education
 - Currently enrolled (starting Fall 2024) in a B.S in Mathematics and Physics (double major), American University of Beirut 

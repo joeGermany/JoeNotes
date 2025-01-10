@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics-Informed Machine Learning/Other architectures.md",
+                "file": "Physics-Informed Machine Learning/Physics Insight/Liouville integrable systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Other architectures"
+              "title": "Liouville integrable systems"
             }
           }
         ]
@@ -176,8 +176,13 @@
   },
   "active": "9203ccf791e97d41",
   "lastOpenFiles": [
-    "readme.md",
+    "Physics-Informed Machine Learning/Physics Insight/in involution.md",
+    "Physics-Informed Machine Learning/Physics Insight/first integrals.md",
+    "Physics-Informed Machine Learning/Physics Insight/Liouville integrable systems.md",
     "Physics-Informed Machine Learning/Other architectures.md",
+    "Untitled.md",
+    "Physics-Informed Machine Learning/Physics Insight",
+    "readme.md",
     "Physics-Informed Machine Learning/Hamiltonian Neural Networks and related architectures.md",
     "Physics-Informed Machine Learning/Images/HamiltonianNeuralNetwork.png",
     "Physics-Informed Machine Learning/Images/ActionAngleNetworkArchitecture.png",
