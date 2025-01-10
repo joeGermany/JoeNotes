@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "Other architectures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "Other architectures"
             }
           }
         ]
@@ -88,39 +88,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "916df38b24d1cc86",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "readme.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for readme"
-            }
-          },
-          {
-            "id": "1c710251620c5cfd",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "readme.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from readme"
-            }
-          },
-          {
             "id": "0d6f4f8807d17beb",
             "type": "leaf",
             "state": {
@@ -139,10 +106,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "Other architectures.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of readme"
+              "title": "Outline of Other architectures"
             }
           },
           {
@@ -154,13 +121,47 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "c9026c6088ba533e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Other architectures.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Other architectures"
+            }
+          },
+          {
+            "id": "14cf9acc9cfc2987",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Other architectures.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Other architectures"
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,21 +176,22 @@
   },
   "active": "9203ccf791e97d41",
   "lastOpenFiles": [
-    "Physics-Informed Machine Learning/Hamiltonian Neural Networks and related architectures.md",
+    "Survey on the Techniques of Physics-Informed Machine Learning.md",
+    "Other architectures.md",
+    "Physics-Informed Machine Learning/Dimension-Preserving Networks and BuckiNet.md",
+    "Physics-Informed Machine Learning/SympNet and other symplectic, structure-preserving networks.md",
     "Physics-Informed Machine Learning/Solving Differential Equations using Neural Networks.md",
     "Physics-Informed Machine Learning/Symbolic Hamiltonian Regression Methods.md",
+    "Physics-Informed Machine Learning/Traditional Methods for solving Hamiltonian Systems.md",
+    "Physics-Informed Machine Learning/Hamiltonian Neural Networks and related architectures.md",
     "readme.md",
     "Joe Germany.md",
     "Physics-Informed Machine Learning/Bibliography Notes/hornik1989 Multilayer feedforward networks are universal approximators.md",
-    "Physics-Informed Machine Learning/SympNet and symplectic, structure-preserving networks.md",
-    "Physics-Informed Machine Learning/Traditional Methods for solving Hamiltonian Systems.md",
     "Physics-Informed Machine Learning/Bibliography Notes/greydanus2019 Hamiltonian Neural Networks.md",
-    "Physics-Informed Machine Learning/Dimension-Preserving Networks and BuckiNet.md",
     "Physics-Informed Machine Learning/Images",
     "Physics-Informed Machine Learning/Bibliography Notes",
     "Physics-Informed Machine Learning/Images/HamiltonianNeuralNetwork.png",
     "Physics-Informed Machine Learning/Neural Networks based on Techniques from Classical Mechanics.md",
-    "Survey on the Techniques of Physics-Informed Machine Learning.md",
     "Physics-Informed Machine Learning/Dimensionally Consistent Learning.md",
     "Physics-Informed Machine Learning",
     "test-note.md",
