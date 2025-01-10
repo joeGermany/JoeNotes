@@ -1,0 +1,1 @@
+Two functions $f_1$ and $f_2$ are said to be independent (also referred to as functionally independent) if their gradient vectors $\{Df_1, Df_2\}$ are linearly independent.
