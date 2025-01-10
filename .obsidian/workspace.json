@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics-Informed Machine Learning/Action-Angle Networks.md",
+                "file": "Physics-Informed Machine Learning/Hamiltonian Neural Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Action-Angle Networks"
+              "title": "Hamiltonian Neural Networks"
             }
           }
         ]
@@ -176,22 +176,24 @@
   },
   "active": "9203ccf791e97d41",
   "lastOpenFiles": [
-    "Physics-Informed Machine Learning/Other architectures.md",
+    "Physics-Informed Machine Learning/Physics Insight/Hamiltonian system.md",
+    "Physics-Informed Machine Learning/Hamiltonian Neural Networks.md",
+    "Physics-Informed Machine Learning/Hamiltonian Neural Networks and related architectures.md",
     "Physics-Informed Machine Learning/Action-Angle Networks.md",
+    "Physics-Informed Machine Learning/Physics Insight/Liouville-Arnold theorem.md",
+    "Physics-Informed Machine Learning/Physics Insight/Liouville integrable systems.md",
+    "Physics-Informed Machine Learning/Physics Insight/Poisson Bracket.md",
+    "Physics-Informed Machine Learning/Other architectures.md",
     "Physics-Informed Machine Learning/Reference Notes/hornik1989 Multilayer feedforward networks are universal approximators.md",
     "Physics-Informed Machine Learning/Symbolic Regression Methods.md",
     "Survey on the Techniques of Physics-Informed Machine Learning.md",
     "Physics-Informed Machine Learning/Traditional Methods for solving Hamiltonian Systems.md",
     "Physics-Informed Machine Learning/SympNet and other symplectic, structure-preserving networks.md",
     "Physics-Informed Machine Learning/Solving Differential Equations using Neural Networks.md",
-    "Physics-Informed Machine Learning/Hamiltonian Neural Networks and related architectures.md",
     "Physics-Informed Machine Learning/Dimension-Preserving Networks and BuckiNet.md",
     "Physics-Informed Machine Learning/The Hamilton-Jacobi Equation in Optimal Control Setting.md",
     "Physics-Informed Machine Learning/Symbolic Hamiltonian Regression Methods.md",
     "Hamiltonian Generative Networks.md",
-    "Physics-Informed Machine Learning/Physics Insight/Liouville-Arnold theorem.md",
-    "Physics-Informed Machine Learning/Physics Insight/Liouville integrable systems.md",
-    "Physics-Informed Machine Learning/Physics Insight/Poisson Bracket.md",
     "Physics-Informed Machine Learning/Physics Insight/independent.md",
     "Physics-Informed Machine Learning/Physics Insight/in involution.md",
     "Physics-Informed Machine Learning/Physics Insight/Action-Angle coordinates.md",
@@ -206,8 +208,6 @@
     "Physics-Informed Machine Learning/Reference Notes/greydanus2019 Hamiltonian Neural Networks.md",
     "Physics-Informed Machine Learning/Images",
     "Physics-Informed Machine Learning/Reference Notes",
-    "Physics-Informed Machine Learning/Neural Networks based on Techniques from Classical Mechanics.md",
-    "Physics-Informed Machine Learning/Dimensionally Consistent Learning.md",
     "Physics-Informed Machine Learning",
     "netlify.toml",
     "netlify.example.toml",
