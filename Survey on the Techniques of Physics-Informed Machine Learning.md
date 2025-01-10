@@ -7,4 +7,4 @@ This survey, in the format of an interactive zettelkasten-type vault, will const
 
 Below are a few, additional ideas that are pertinent to my research: 
 - [[Dimension-Preserving Networks and BuckiNet]]
-- [[Symbolic Hamiltonian Regression Methods]]
+- [[Symbolic Regression Methods]]
