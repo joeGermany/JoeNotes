@@ -1,0 +1,2 @@
+Let us consider the generating function (of type-2): $F_2 (q, P) = qP + \epsilon G(q, P)$. 
+Notice that this is very close to the identity transformation since $F = qP$ gives us $p = \dfrac{\partial F}{\partial q} = P$ and $Q = \dfrac{\partial F}{\partial P} = q$, which corresponds to the identity transformation.
