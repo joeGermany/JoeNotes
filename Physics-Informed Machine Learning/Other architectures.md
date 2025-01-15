@@ -6,6 +6,7 @@ Another interesting method is [[Generating Function Neural Network]], introduced
 
 Karniadakis's group has published two papers on the use of the [[Hamilton-Jacobi equation]] in neural networks in application to optimal control problems[^4] <sup>and</sup> [^5]. See [[The Hamilton-Jacobi Equation in Optimal Control Setting]].
 
+
 [^1]:  Daigavane, A., Kosmala, A., Cranmer, M., Smidt, T., & Ho, S. (2022). Learning Integrable Dynamics with Action-Angle Networks. [https://arxiv.org/abs/2211.15338](https://arxiv.org/abs/2211.15338)
 
 [^2]:  Ishikawa, F., Suwa, H., & Todo, S. (2021). Neural Network Approach to Construction of Classical Integrable Systems. Journal of the Physical Society of Japan, 90(9), 093001. [https://doi.org/10.7566/jpsj.90.093001](https://doi.org/10.7566/jpsj.90.093001)

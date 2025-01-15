@@ -1,8 +1,8 @@
 ### Physics Insight
 There is a subclass of Hamiltonian systems called [[Liouville integrable systems]].
-The [[Liouville-Arnold theorem]] guarantees that for these systems, there exists a canonical transformation to a set of coordinates called [[Action-Angle coordinates]].
+The [[Liouville-Arnold theorem]] guarantees that, for these systems, there exists a canonical transformation to a set of coordinates called [[Action-Angle coordinates]], with which the phase space is greatly simplified and allowing for easier prediction.
 ### The Architecture
-Daigavane et al.[^1] introduce Action-Angle networks, an architecture that takes advantage of the linear evolution of the angle variable to evolve the system forward in time. 
+Daigavane et al.[^1] introduce Action-Angle networks, an architecture that takes advantage of the linear evolution of the angle variable for [[Liouville-Arnold theorem]] to evolve the system forward in time. 
 
 The paper adopts an autoencoder-type architecture: 
 - **Encode** step: they use a GSympNet[^2] network to do the canonical transformation from $(q(t), p(t))$ to $(I(t), \theta (t))$,
@@ -19,6 +19,7 @@ The loss function of the action-angle network has the following two terms:
 - $L_{\text{predict}} = \frac{1}{1 + \Delta t} \sum_{t_0 \in \text{Tr}} ||\mathcal{M} (u(t_0), \Delta t) - u(t_0 + \Delta t)||^2$, and
 - $L_{\text{action}} =  \frac{1}{T} \left (\hat{I} (t_0) - \frac{1}{T} \sum_{t_0 \in \text{Tr}} \hat{I}(t_0) \right)$ (this term is to enforce the constancy of the action variable),
 where $\text{Tr}$ is the training data composed of position $q(t)$ and momentum $p(t)$ data for a number of time steps.
+
 
 [^1]:  Daigavane, A., Kosmala, A., Cranmer, M., Smidt, T., & Ho, S. (2022). Learning Integrable Dynamics with Action-Angle Networks. [https://arxiv.org/abs/2211.15338](https://arxiv.org/abs/2211.15338)
 

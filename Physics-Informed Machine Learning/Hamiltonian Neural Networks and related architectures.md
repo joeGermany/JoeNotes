@@ -14,4 +14,5 @@ The foundational paper on Hamiltonian dynamics and machine learning is Greydanus
 ## Port-Hamiltonian Networks
 - 
 
+
 [^1]:  Greydanus, S., Dzamba, M., & Yosinski, J. (2019). Hamiltonian Neural Networks. [https://arxiv.org/abs/1906.01563](https://arxiv.org/abs/1906.01563)
