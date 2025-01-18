@@ -205,6 +205,7 @@
   },
   "active": "bd1a4f0512f32a10",
   "lastOpenFiles": [
+    "Physics-Informed Machine Learning/The Hamilton-Jacobi Equation in Optimal Control Setting.md",
     "Physics-Informed Machine Learning/Neural Network Approach to Construction of Classical Integrable Systems.md",
     "Physics-Informed Machine Learning/Hamiltonian Neural Networks and related architectures.md",
     "Physics-Informed Machine Learning/Hamiltonian Neural Networks.md",
@@ -230,7 +231,6 @@
     "Physics-Informed Machine Learning/Reference Notes/hornik1989 Multilayer feedforward networks are universal approximators.md",
     "Physics-Informed Machine Learning/Symbolic Regression Methods.md",
     "Physics-Informed Machine Learning/Traditional Methods for solving Hamiltonian Systems.md",
-    "Physics-Informed Machine Learning/Dimension-Preserving Networks and BuckiNet.md",
     "Untitled",
     "Physics-Informed Machine Learning/Physics Insight",
     "Physics-Informed Machine Learning/Images/HamiltonianNeuralNetwork.png",

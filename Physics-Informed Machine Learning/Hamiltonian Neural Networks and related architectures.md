@@ -3,7 +3,7 @@ There are methods that directly try to learn the phase flow (the vector field of
 
 Let's start by exploring both camps of thought!
 ## 1. Learning the Hamiltonian quantity
-The "canonical" paper by Greydanus et al. on [[Hamiltonian Neural Networks]] (HNNs) was one of the first that explored the idea of evolving the Hamiltonian system by using a neural network to learn the Hamiltonian quantity (by minimizing [[Hamilton's equations]]) and using that to integrate the system with time. [[Symplectic Recurrent Neural Networks]] also adopted a similar strategy, but mended some of the weaknesses of HNNs by using a symplectic integrator
+The "canonical" paper on Hamiltonian dynamics and machine learning by Greydanus et al. on [[Hamiltonian Neural Networks]] (HNNs) was one of the first that explored the idea of evolving the Hamiltonian system by using a neural network to learn the Hamiltonian quantity (by minimizing [[Hamilton's equations]]) and using that to integrate the system with time. Many refinements, additions, and changes have been suggested since its publication. Prominently, [[Symplectic Recurrent Neural Networks]] also adopted a similar strategy, but mended some of the weaknesses of HNNs by using a symplectic integrator to preserve the structure of the Hamiltonian.
 ## 2. Learning the phase flow / vector field
 Some of the papers that try to learn the phase flow of the Hamiltonian system through a neural network architecture (which typically conserves some sort of intrinsic property of the system like symplecticity) include [[SympNet]].
 
