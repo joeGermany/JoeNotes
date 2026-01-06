@@ -16,8 +16,9 @@ jobs:
           fetch-depth: 0
 
       - name: Install Zola
+        shell: bash
         run: |
-          curl -s https://getzola.org/install.sh | sh
+          curl -s https://getzola.org/install.sh | bash
           sudo mv zola /usr/local/bin/zola
 
       - name: Clone obsidian-zola-plus
