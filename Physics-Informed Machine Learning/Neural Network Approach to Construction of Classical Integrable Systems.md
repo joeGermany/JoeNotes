@@ -1,1 +1,0 @@
-A major drawback of this paper is that they assume that they have data on the [[Action-Angle coordinates]].

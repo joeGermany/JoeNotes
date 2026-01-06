@@ -1,3 +1,0 @@
-- [[Neural ODE]]
-- [[ResNet]]
-	- "Data driven governing equations approximation using deep neural networks" proposes ResNet, Recurrent ResNet, and Recursive ResNet for approximating dynamical systems
