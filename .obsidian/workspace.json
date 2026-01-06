@@ -1,53 +1,83 @@
 {
   "main": {
-    "id": "f62d6e6018fef9a4",
+    "id": "a3fc17785db6847f",
     "type": "split",
     "children": [
       {
-        "id": "05fadcb5214f3505",
+        "id": "82c9e60eb8a86b53",
         "type": "tabs",
         "children": [
           {
-            "id": "dd7f36d32bf5694f",
+            "id": "c94cbb24b73000d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics-Informed Machine Learning/Physics Insight/Hamilton-Jacobi equation.md",
+                "file": "Physics-Informed Machine Learning/Generating Function Neural Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hamilton-Jacobi equation"
+              "title": "Generating Function Neural Network"
+            }
+          },
+          {
+            "id": "9203ccf791e97d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics-Informed Machine Learning/Physics Insight/Infinitesimal Canonical Transformation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Infinitesimal Canonical Transformation"
+            }
+          },
+          {
+            "id": "bd1a4f0512f32a10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics-Informed Machine Learning/Physics Insight/Liouville-Arnold theorem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Liouville-Arnold theorem"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5903ac1ac004c15c",
+    "id": "a916da9379472581",
     "type": "split",
     "children": [
       {
-        "id": "f5b6dd2e23f75ceb",
+        "id": "1e5ed53ac183868e",
         "type": "tabs",
         "children": [
           {
-            "id": "911dbada53bcd19a",
+            "id": "9ab8c5916afac82c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "09e67d2bbf4b761c",
+            "id": "7f9102139e8545ea",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +94,7 @@
             }
           },
           {
-            "id": "723c267356b8283f",
+            "id": "086dcc4e75515a28",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,51 +107,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "7e73ee6b00e47f76",
+    "id": "22e3df889407cb5e",
     "type": "split",
     "children": [
       {
-        "id": "7e47b863dacdc46f",
+        "id": "0d3b51e6596e91d0",
         "type": "tabs",
         "children": [
           {
-            "id": "261bff65c5454dac",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Physics-Informed Machine Learning/Physics Insight/Hamilton-Jacobi equation.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Hamilton-Jacobi equation"
-            }
-          },
-          {
-            "id": "60935bea645b28df",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Physics-Informed Machine Learning/Physics Insight/Hamilton-Jacobi equation.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Hamilton-Jacobi equation"
-            }
-          },
-          {
-            "id": "93a18c758843220f",
+            "id": "0d6f4f8807d17beb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,22 +131,66 @@
             }
           },
           {
-            "id": "ca3fd5e5b407ab1b",
+            "id": "6315daef8c63084f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics-Informed Machine Learning/Physics Insight/Hamilton-Jacobi equation.md"
+                "file": "Other architectures.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Hamilton-Jacobi equation"
+              "title": "Outline of Other architectures"
+            }
+          },
+          {
+            "id": "402eb48a3259c495",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c9026c6088ba533e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics-Informed Machine Learning/Other architectures.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Other architectures"
+            }
+          },
+          {
+            "id": "14cf9acc9cfc2987",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Physics-Informed Machine Learning/Other architectures.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Other architectures"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -163,13 +204,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "911dbada53bcd19a",
+  "active": "bd1a4f0512f32a10",
   "lastOpenFiles": [
-    "google2e9f46a1de6584f9.html",
-    "Physics-Informed Machine Learning/Other architectures.md",
+    "Physics-Informed Machine Learning/Physics Insight/Poisson Bracket.md",
+    "Physics-Informed Machine Learning/Physics Insight/first integrals.md",
+    "Physics-Informed Machine Learning/Physics Insight/in involution.md",
+    "Physics-Informed Machine Learning/Physics Insight/independent.md",
+    "Physics-Informed Machine Learning/Physics Insight/Liouville integrable systems.md",
+    "Physics-Informed Machine Learning/Physics Insight/Hamiltonian system.md",
     "Physics-Informed Machine Learning/Physics Insight/Hamilton-Jacobi equation.md",
+    "Physics-Informed Machine Learning/Physics Insight/Hamilton's equations.md",
+    "Physics-Informed Machine Learning/Physics Insight/Action-Angle coordinates.md",
     "Physics-Informed Machine Learning/Hamiltonian Neural Networks and related architectures.md",
+    "Physics-Informed Machine Learning/The Hamilton-Jacobi Equation in Optimal Control Setting.md",
+    "Physics-Informed Machine Learning/Neural Network Approach to Construction of Classical Integrable Systems.md",
+    "Physics-Informed Machine Learning/Hamiltonian Neural Networks.md",
     "Survey on the Techniques of Physics-Informed Machine Learning.md",
-    "Physics-Informed Machine Learning/Physics Insight/Action-Angle coordinates.md"
+    "Physics-Informed Machine Learning/Learning Symmetries of Classical Integrable Systems.md",
+    "Physics-Informed Machine Learning/Symplectic Recurrent Neural Networks.md",
+    "Physics-Informed Machine Learning/SympNet and other symplectic, structure-preserving networks.md",
+    "Physics-Informed Machine Learning/SympNet.md",
+    "Physics-Informed Machine Learning/Solving Differential Equations using Neural Networks.md",
+    "Physics-Informed Machine Learning/Generating Function Neural Network.md",
+    "Physics-Informed Machine Learning/Physics Insight/Infinitesimal Canonical Transformation.md",
+    "Physics-Informed Machine Learning/Other architectures.md",
+    "Physics-Informed Machine Learning/Physics Insight/Liouville-Arnold theorem.md",
+    "Physics-Informed Machine Learning/Action-Angle Networks.md",
+    "Physics-Informed Machine Learning/Reference Notes/hornik1989 Multilayer feedforward networks are universal approximators.md",
+    "Physics-Informed Machine Learning/Symbolic Regression Methods.md",
+    "Untitled",
+    "Physics-Informed Machine Learning/Physics Insight",
+    "Physics-Informed Machine Learning/Images/HamiltonianNeuralNetwork.png",
+    "Physics-Informed Machine Learning/Images/ActionAngleNetworkArchitecture.png",
+    "Physics-Informed Machine Learning/Images",
+    "Physics-Informed Machine Learning/Reference Notes",
+    "Physics-Informed Machine Learning",
+    "netlify.toml",
+    "netlify.example.toml",
+    "JoeNotes"
   ]
 }

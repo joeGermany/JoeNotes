@@ -1,0 +1,50 @@
+name: Deploy Zola site to user root (joeGermany.github.io)
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout JoeNotes
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install Zola
+        run: |
+          curl -s https://getzola.org/install.sh | sh
+          sudo mv zola /usr/local/bin/zola
+
+      - name: Clone obsidian-zola-plus
+        run: |
+          git clone https://github.com/joeGermany/obsidian-zola-plus.git __site
+          chmod +x __site/run.sh
+
+      - name: Prepare content
+        run: |
+          rm -rf __obsidian
+          mkdir __obsidian
+          shopt -s extglob
+          mv !(.__*) __obsidian || true
+          __site/run.sh
+
+      - name: Clone deployment repo (joeGermany.github.io)
+        run: |
+          git clone https://x-access-token:${{ secrets.DEPLOY_TOKEN }}@github.com/joeGermany/joeGermany.github.io.git deploy_repo
+
+      - name: Deploy to GitHub Pages
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          cd deploy_repo
+          rm -rf ./*
+          cp -r ../public/* .
+          git add .
+          git commit -m "Automated deployment" || true
+          git push origin main
