@@ -37,13 +37,17 @@ jobs:
           # Move all files except hidden/system folders and __site
           mv !(__obsidian|__site|.git|.github) __obsidian || true
 
-      - name: Build site
+      - name: Build site with obsidian-zola-plus
         shell: bash
         run: |
+          # Make sure the script is executable
           chmod +x __site/run.sh
-          # Run the build script from repo root (important!)
-          ./__site/run.sh
 
+          # Run it from inside __site
+          cd __site
+          ./run.sh
+          cd ..
+      
       - name: Verify build
         shell: bash
         run: |
