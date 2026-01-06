@@ -1,4 +1,4 @@
-name: Deploy Zola site to user root (joeGermany.github.io)
+name: Deploy JoeNotes to GitHub Pages
 
 on:
   push:
@@ -10,24 +10,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout JoeNotes
+      # 1. Checkout JoeNotes
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
+      # 2. Install Zola
       - name: Install Zola
-        shell: bash
         run: |
           ZOLA_VERSION="0.21.0"
           wget https://github.com/getzola/zola/releases/download/v${ZOLA_VERSION}/zola-v${ZOLA_VERSION}-x86_64-unknown-linux-gnu.tar.gz
           tar -xzf zola-v${ZOLA_VERSION}-x86_64-unknown-linux-gnu.tar.gz
           sudo mv zola /usr/local/bin/
 
+      # 3. Clone obsidian-zola-plus theme/scripts
       - name: Clone obsidian-zola-plus
-        shell: bash
         run: |
           git clone https://github.com/joeGermany/obsidian-zola-plus.git __site
 
+      # 4. Prepare content (move notes into __obsidian)
       - name: Prepare content
         shell: bash
         run: |
@@ -37,45 +39,22 @@ jobs:
           # Move all files except hidden/system folders and __site
           mv !(__obsidian|__site|.git|.github) __obsidian || true
 
-      - name: Debug folder structure
-        shell: bash
+      # 5. Build site with Zola
+      - name: Build site
         run: |
-          echo "Repo root:"
-          ls -la
-          echo "__obsidian contents:"
-          ls -la __obsidian
-          echo "__site contents:"
-          ls -la __site
+          zola build --root . --output-dir public
 
-      - name: Build site with obsidian-zola-plus
-        shell: bash
-        run: |
-          chmod +x __site/run.sh
-          ./__site/run.sh
-      
-      - name: Verify build
-        shell: bash
-        run: |
-          if [ ! -d "./public" ]; then
-            echo "Error: public folder not found!"
-            ls -la
-            exit 1
-          fi
-
-      - name: Clone deployment repo (joeGermany.github.io)
-        shell: bash
-        run: |
-          git clone https://x-access-token:${{ secrets.DEPLOY_TOKEN }}@github.com/joeGermany/joeGermany.github.io.git deploy_repo
-
+      # 6. Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
-        shell: bash
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-
+          git clone https://x-access-token:${{ secrets.DEPLOY_TOKEN }}@github.com/joeGermany/joeGermany.github.io.git deploy_repo
           cd deploy_repo
           rm -rf ./*
           cp -r ../public/* .
           git add .
           git commit -m "Automated deployment" || true
           git push origin main
+        env:
+          DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}

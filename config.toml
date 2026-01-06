@@ -1,0 +1,26 @@
+# config.toml - Zola configuration for GitHub Pages
+
+# Base URL for GitHub Pages
+base_url = "https://joeGermany.github.io/JoeNotes/"
+
+# Site metadata
+title = "Joe's Notes"
+description = "Notes on Math, Physics, and Computers"
+default_language = "en"
+
+# Theme (inside __site/zola)
+theme = "zola"
+
+# Feeds
+generate_feeds = true
+
+# Extra variables to replicate Netlify environment
+[extra]
+landing_page = "./readme"
+landing_button = "Browse notes!"
+site_url = "https://joeGermany.github.io/JoeNotes/"
+slugify = true
+home_graph = true
+page_graph = true
+sort_by = "title"
+footer = ""
