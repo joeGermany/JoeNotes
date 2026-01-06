@@ -28,29 +28,21 @@ jobs:
         run: |
           git clone https://github.com/joeGermany/obsidian-zola-plus.git __site
 
-      - name: Prepare content and run theme
+      - name: Prepare content
         shell: bash
         run: |
           rm -rf __obsidian
           mkdir __obsidian
           shopt -s extglob
-          # Move everything except __obsidian, __site, .git, .github
+          # Move all files except hidden/system folders and __site
           mv !(__obsidian|__site|.git|.github) __obsidian || true
 
-          # Make sure run.sh exists
-          chmod +x __site/run.sh
-
-          # Run it from root, not inside __site
-          ./__site/run.sh
-
-      - name: Build Zola site
+      - name: Build site
         shell: bash
         run: |
-          # Ensure theme points to __obsidian as content
-          cp -r __obsidian/* __site/content/
-          cd __site
-          zola build --output-dir ../public
-          cd ..
+          chmod +x __site/run.sh
+          # Run the build script from repo root (important!)
+          ./__site/run.sh
 
       - name: Verify build
         shell: bash
