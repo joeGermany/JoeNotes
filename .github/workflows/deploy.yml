@@ -34,11 +34,13 @@ jobs:
           rm -rf __obsidian
           mkdir __obsidian
           shopt -s extglob
-          # Move all files except hidden/system folders and __site
+          # Move everything except __obsidian, __site, .git, .github
           mv !(__obsidian|__site|.git|.github) __obsidian || true
 
-          # Run the build script
+          # Make sure run.sh exists
           chmod +x __site/run.sh
+
+          # Run it from root, not inside __site
           ./__site/run.sh
 
       - name: Build Zola site
