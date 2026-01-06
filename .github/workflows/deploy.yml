@@ -42,7 +42,7 @@ jobs:
       # 5. Build site with Zola
       - name: Build site
         run: |
-          zola build --root . --output-dir public
+          zola build --output-dir public
 
       # 6. Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
