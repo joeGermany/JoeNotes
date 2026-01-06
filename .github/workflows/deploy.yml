@@ -37,6 +37,17 @@ jobs:
           # Move all files except hidden/system folders and __site
           mv !(__obsidian|__site|.git|.github) __obsidian || true
 
+      - name: Debug folder structure before build
+        shell: bash
+        run: |
+          echo "Current directory: $(pwd)"
+          echo "Contents of repo root:"
+          ls -la
+          echo "Contents of __obsidian (your notes):"
+          ls -la __obsidian
+          echo "Contents of __site (theme + run.sh):"
+          ls -la __site
+
       - name: Build site with obsidian-zola-plus
         shell: bash
         run: |
