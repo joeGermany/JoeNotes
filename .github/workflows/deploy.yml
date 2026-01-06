@@ -27,13 +27,17 @@ jobs:
           git clone https://github.com/joeGermany/obsidian-zola-plus.git __site
           chmod +x __site/run.sh
 
-      - name: Prepare content
+      - name: Prepare content and run theme
+        shell: bash
         run: |
           rm -rf __obsidian
           mkdir __obsidian
           shopt -s extglob
-          mv !(.__*) __obsidian || true
-          __site/run.sh
+          # Move all files except hidden/system folders and __site
+          mv !(__obsidian|__site|.git|.github) __obsidian || true
+          # Make sure run.sh exists and run it
+          chmod +x __site/run.sh
+          ./__site/run.sh
 
       - name: Clone deployment repo (joeGermany.github.io)
         run: |
