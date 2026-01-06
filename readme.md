@@ -1,5 +1,5 @@
 # Who am I?
-I am Joe Germany, a first-year university student at the American University of Beirut, double majoring in Pure Mathematics and Physics.
+I am Joe Germany, a second-year student at the American University of Beirut, double majoring in Mathematics and Physics.
 # Research Interests
 I am currently interested and working on a number of projects in the field of physics-informed machine learning with a special focus on Hamiltonian mechanics. Supervised by Dr. Sara Najem and Dr. Joseph Bakarji, I am working on creating data-driven techniques for the discovery of the Hamiltonian expression of a dynamical systems and for predicting its temporal evolution, while preserving inherent properties of the system (like symplecticity).
 You can find the website of our research lab at: [Data-Driven Modeling Lab - Joseph Bakarji](https://www.josephbakarji.com/data-driven-modeling-lab)
