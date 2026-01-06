@@ -10,7 +10,7 @@ With [Elie Abdo](https://sites.google.com/view/elie-abdo-website/) and other col
 # Publications*
 - E. Abdo, **J. Germany**, M. K. Hamdan, K. Kontar, Long-time dynamics of the Nernst-Planck-Darcy System on $\mathbb{R}^3$, submitted. [preprint](https://arxiv.org/abs/2601.02208)
 - A. Yermakov, Y. Zhao, M. Denolle, Y. Ni, P. M. Wyder, J. Goldfeder, S. Riva, J. Williams, D. Zoro, A. S. Rude, M. Tomasetto, **J. Germany**, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz, _The Seismic Wavefield Common Task Framework_, submitted. [preprint](https://arxiv.org/abs/2512.19927)
-- P. M. Wyder, J. A. Goldfeder, A. Yermakov, Y. Zhao, S. Riva, J. P. Williams, D. Zoro, A. S. Rude, M. Tomasetto, **J. Germany**, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz, Common Task Framework For a Critical Evaluation of Scientific Machine Learning Algorithms, in The **Thirty-ninth Annual Conference on Neural Information Processing Systems** Datasets and Benchmarks Track, 2025. [preprint](https://arxiv.org/abs/2510.23166) [proceedings](https://openreview.net/forum?id=pkFKjmUE3L)
+- P. M. Wyder, J. A. Goldfeder, A. Yermakov, Y. Zhao, S. Riva, J. P. Williams, D. Zoro, A. S. Rude, M. Tomasetto, **J. Germany**, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz, Common Task Framework For a Critical Evaluation of Scientific Machine Learning Algorithms, in The **Thirty-ninth Annual Conference on Neural Information Processing Systems** Datasets and Benchmarks Track, 2025. [preprint](https://arxiv.org/abs/2510.23166); [proceedings](https://openreview.net/forum?id=pkFKjmUE3L)
 - P. M. Wyder, J. A. Goldfeder, A. Yermakov, Y. Zhao, S. Riva, J. P. Williams, D. Zoro, A. S. Rude, M. Tomasetto, **J. Germany**, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz, _Common Task Framework For a Critical Evaluation of Scientific Machine Learning Algorithms_, **Championing Open-source DEvelopment in ML Workshop @ ICML 2025**. [proceedings](https://openreview.net/forum?id=licgHdwg5y)
 
 \*For the pure math papers, we adopt the convention of the community of listing authors in alphabetical order.
@@ -19,7 +19,7 @@ With [Elie Abdo](https://sites.google.com/view/elie-abdo-website/) and other col
 - "Building Physics-Respecting Neural Networks for Hamiltonian Systems," presented at the Scientific Forum 2025 at the Lebanese University (December 16, 2025).
 - LaTeX Workshop, presented at the American University of Beirut, as part of an initiative by the Math Society (October 29, 2025).
 
-# Teaching-related Experiences
+# Teaching Experience
 - Teaching Assistant (American University of Beirut):
 	- Physics 222: Computational Physics (Fall 2025)
 	- EECE 490: Introduction to Machine Learning (Fall 2025)
