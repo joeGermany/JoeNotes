@@ -7,7 +7,7 @@ I am working with [Joseph Bakarji](https://www.josephbakarji.com/) and [Sara Naj
 
 With [Elie Abdo](https://sites.google.com/view/elie-abdo-website/) and other collaborators, I work on the analysis of nonlinear and nonlocal partial differential equations that describe the interactions of charged particles with fluids across various physical settings. Our work addresses questions of well-posedness and long-time behavior of solutions. We also study the approximation theory of physics-informed neural networks and how such neural network approximations can be used to rigorously infer properties of the true PDE solutions.
 
-With [Nathan Kutz](https://scholar.google.com/citations?user=kfT42KEAAAAJ&hl=en) and a team of collaborators, we have worked on creating a common task framework for evaluating scientific machine learning architectures, in an effort to provide a standardized way to compare the performance of these algorithms on a number of metrics.
+With [Nathan Kutz](https://scholar.google.com/citations?user=kfT42KEAAAAJ&hl=en) and a team of collaborators, we have worked on creating a common task framework for evaluating scientific machine learning architectures, in an effort to provide a standardized way to compare the performance of these algorithms.
 
 # Publications*
 1. E. Abdo, **J. Germany**, M. K. Hamdan, K. Kontar, Long-time dynamics of the Nernst-Planck-Darcy System on $\mathbb{R}^3$, submitted. [preprint](https://arxiv.org/abs/2601.02208)
