@@ -28,7 +28,7 @@ jobs:
         run: |
           git clone https://github.com/joeGermany/obsidian-zola-plus.git __site
 
-      - name: Prepare content
+      - name: Prepare content and run theme
         shell: bash
         run: |
           rm -rf __obsidian
@@ -36,6 +36,10 @@ jobs:
           shopt -s extglob
           # Move all files except hidden/system folders and __site
           mv !(__obsidian|__site|.git|.github) __obsidian || true
+
+          # Run the build script
+          chmod +x __site/run.sh
+          ./__site/run.sh
 
       - name: Build Zola site
         shell: bash
