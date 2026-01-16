@@ -23,8 +23,12 @@ $^*$For the pure math papers, we adopt the convention of the community of listin
 
 # Teaching Experience
 - Teaching Assistant (American University of Beirut):
-	- Physics 222: Computational Physics (Fall 2025)
-	- EECE 490: Introduction to Machine Learning (Fall 2025)
+	- Spring 2026:
+ 		- EECE 798K: Data-Driven Modeling in Science and Engineering (Joseph Bakarji)
+  	- Fall 2025:
+		- EECE 490: Introduction to Machine Learning (Joseph Bakarji)
+  		- Physics 222: Computational Physics (Sara Najem)
+
 - Math Tutor at AUB’s Math Tutoring Center (Fall 2025), helping with single- and multi-variable calculus, linear algebra, and ordinary differential equations.
 
 # Education
