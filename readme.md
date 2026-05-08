@@ -10,19 +10,21 @@ With [Elie Abdo](https://sites.google.com/view/elie-abdo-website/) and other col
 With [Nathan Kutz](https://scholar.google.com/citations?user=kfT42KEAAAAJ&hl=en) and a team of collaborators, we have worked on creating a common task framework for evaluating scientific machine learning architectures, in an effort to provide a standardized way to compare the performance of these algorithms.
 
 # Publications*
-1. E. Abdo, **J. Germany**, M. K. Hamdan, K. Kontar, Long-time dynamics of the Nernst-Planck-Darcy System on $\mathbb{R}^3$, submitted. [preprint](https://arxiv.org/abs/2601.02208)
-2. A. Yermakov, Y. Zhao, M. Denolle, Y. Ni, P. M. Wyder, J. Goldfeder, S. Riva, J. Williams, D. Zoro, A. S. Rude, M. Tomasetto, **J. Germany**, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz, _The Seismic Wavefield Common Task Framework_, accepted for publication as a conference paper at the International Conference on Learning Representations (ICLR) 2026. [preprint](https://arxiv.org/abs/2512.19927)
-3. P. M. Wyder, J. A. Goldfeder, A. Yermakov, Y. Zhao, S. Riva, J. P. Williams, D. Zoro, A. S. Rude, M. Tomasetto, **J. Germany**, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz, Common Task Framework For a Critical Evaluation of Scientific Machine Learning Algorithms, in The **Thirty-ninth Annual Conference on Neural Information Processing Systems** Datasets and Benchmarks Track, 2025. [preprint](https://arxiv.org/abs/2510.23166); [proceedings](https://openreview.net/forum?id=pkFKjmUE3L)
-4. P. M. Wyder, J. A. Goldfeder, A. Yermakov, Y. Zhao, S. Riva, J. P. Williams, D. Zoro, A. S. Rude, M. Tomasetto, **J. Germany**, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz, _Common Task Framework For a Critical Evaluation of Scientific Machine Learning Algorithms_, **Championing Open-source DEvelopment in ML Workshop @ ICML 2025**. [proceedings](https://openreview.net/forum?id=licgHdwg5y)
+1. **J. Germany**, E. Abdo, J. Bakarji. EML Trees are Universal Approximators, submitted, 2026.
+2. **J. Germany**, J. Bakarji, S. Najem. Discovery of Symbolic Hamiltonian Expressions with Buckingham-Symplectic Networks, submitted, 2026. [preprint](https://arxiv.org/abs/2604.00576)
+3. E. Abdo, **J. Germany**, M. K. Hamdan, K. Kontar, Long-time dynamics of the Nernst-Planck-Darcy System on $\mathbb{R}^3$, submitted, 2026. [preprint](https://arxiv.org/abs/2601.02208)
+4. A. Yermakov, Y. Zhao, M. Denolle, Y. Ni, P. M. Wyder, J. Goldfeder, S. Riva, J. Williams, D. Zoro, A. S. Rude, M. Tomasetto, **J. Germany**, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz, _The Seismic Wavefield Common Task Framework_, accepted for publication as a conference paper at the International Conference on Learning Representations (ICLR) 2026. [preprint](https://arxiv.org/abs/2512.19927)
+5. P. M. Wyder, J. A. Goldfeder, A. Yermakov, Y. Zhao, S. Riva, J. P. Williams, D. Zoro, A. S. Rude, M. Tomasetto, **J. Germany**, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz, Common Task Framework For a Critical Evaluation of Scientific Machine Learning Algorithms, in The **Thirty-ninth Annual Conference on Neural Information Processing Systems** Datasets and Benchmarks Track, 2025. [preprint](https://arxiv.org/abs/2510.23166); [proceedings](https://openreview.net/forum?id=pkFKjmUE3L)
+6. P. M. Wyder, J. A. Goldfeder, A. Yermakov, Y. Zhao, S. Riva, J. P. Williams, D. Zoro, A. S. Rude, M. Tomasetto, **J. Germany**, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz, _Common Task Framework For a Critical Evaluation of Scientific Machine Learning Algorithms_, **Championing Open-source DEvelopment in ML Workshop @ ICML 2025**. [proceedings](https://openreview.net/forum?id=licgHdwg5y)
 
 $^*$For the pure math papers, we adopt the convention of the community of listing authors in alphabetical order.
 
 # Talks
 ## Upcoming Talks
-- Math Seminar Talk at the American University of Beirut (March 17, 2026) on new results with Elie Abdo for the approximation theory of physics-informed neural networks.
-- Math Summer Research Camp at the American University of Beirut (end of April) on our paper "Long-time dynamics of the Nernst-Planck-Darcy System on $\mathbb{R}^3$", that results from work during the summer of 2025 with Elie Abdo.
+- Math Summer Research Camp at the American University of Beirut (Summer 2026) on our paper "Long-time dynamics of the Nernst-Planck-Darcy System on $\mathbb{R}^3$", that results from work during the summer of 2025 with Elie Abdo.
 ## Past Talks
-- "Vector Calculus, with applications to Electromagnetism and Fluid Mechanics," presented at the American University of Beirut, as part of the Math Tutoring Center revision sessions (January 28, 2025).
+- "Exactly Periodic, Divergence-Free Neural Networks and Applications to PDEs," AUB Math Seminar (May 5, 2026). [abstract](https://www.aub.edu.lb/fas/math/Pages/ags.aspx), [recording](https://youtu.be/Knq42VFpE6k).
+- "Vector Calculus, with applications to Electromagnetism and Fluid Mechanics," presented at the American University of Beirut, as part of the Math Tutoring Center revision sessions (January 28, 2026).
 - "Building Physics-Respecting Neural Networks for Hamiltonian Systems," presented at the Scientific Forum 2025 at the Lebanese University (December 16, 2025).
 - LaTeX Workshop, presented at the American University of Beirut, as part of an initiative by the Math Society (October 29, 2025).
 
