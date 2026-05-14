@@ -3,9 +3,9 @@ I am Joe Germany, a second-year student at the American University of Beirut, do
 # Research Interests
 Broadly, I am interested in the intersections of machine learning, physics, and rigorous mathematics. My "basin of attraction" is around machine learning algorithms in application to physics and PDEs. Concretely, I have worked on developing algorithms for better evolution of Hamiltonian systems (by embedding dimensional constraints and symplecticity), and also on the rigorous analysis of neural network-based solvers for partial differential equations (with strict imposition of periodicity or divergence-free properties).
 
-My work so far can be viewed through the lens of three groups of collaborators.
+My work thus far can be viewed through the lens of three groups of collaborators.
 
-With [Joseph Bakarji](https://www.josephbakarji.com/) and [Sara Najem](https://scholar.google.com/citations?user=SqWOv0cAAAAJ&hl=en), I have worked on developing data-driven techniques for the Hamiltonian systems that respect their underlying geometric properties, in particular symplecticity. We are also exploring how to discover unit-consistent expressions for Hamiltonians directly from data. Check out Paper [5].
+With [Joseph Bakarji](https://www.josephbakarji.com/) and [Sara Najem](https://scholar.google.com/citations?user=SqWOv0cAAAAJ&hl=en), I have worked on developing data-driven techniques for the Hamiltonian systems that respect their underlying geometric properties (symplecticity) and explicitly impose dimensional consistency in discovering Hamiltonian expressions from data. Check out Paper [5].
 
 With [Elie Abdo](https://sites.google.com/view/elie-abdo-website/) and other collaborators, I work on two main frameworks:
 - the analysis of nonlinear and nonlocal partial differential equations, addressing questions of well-posedness and long-time behavior of solutions, (see paper [4]), and 
