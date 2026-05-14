@@ -1,13 +1,17 @@
 I am Joe Germany, a second-year student at the American University of Beirut, double majoring in Mathematics and Physics.
 
 # Research Interests
-I am interested at the intersections between machine learning and physics, in the development of architectures to more accurately learn the phase space trajectories of Hamiltonian systems, but also on the rigorous analysis of neural network-based solvers for partial differential equations.
+Broadly, I am interested in the intersections of machine learning, physics, and rigorous mathematics. My "basin of attraction" is around machine learning algorithms in application to physics and PDEs. Concretely, I have worked on developing algorithms for better evolution of Hamiltonian systems (by embedding dimensional constraints and symplecticity), and also on the rigorous analysis of neural network-based solvers for partial differential equations (with strict imposition of periodicity or divergence-free properties).
 
-I am working with [Joseph Bakarji](https://www.josephbakarji.com/) and [Sara Najem](https://scholar.google.com/citations?user=SqWOv0cAAAAJ&hl=en) on developing data-driven techniques for the Hamiltonian systems that respect their underlying geometric properties, in particular symplecticity. We are also exploring how to discover unit-consistent expressions for Hamiltonians directly from data. Check out Paper [5].
+My work so far can be viewed through the lens of three groups of collaborators.
 
-With [Elie Abdo](https://sites.google.com/view/elie-abdo-website/) and other collaborators, I work on the analysis of nonlinear and nonlocal partial differential equations that describe the interactions of charged particles with fluids across various physical settings. Our work addresses questions of well-posedness and long-time behavior of solutions. We also study the approximation theory of physics-informed neural networks (and other learning algorithms) and how such neural network approximations can be used to rigorously infer properties of the true PDE solutions. Check out Papers [4, 6].
+With [Joseph Bakarji](https://www.josephbakarji.com/) and [Sara Najem](https://scholar.google.com/citations?user=SqWOv0cAAAAJ&hl=en), I have worked on developing data-driven techniques for the Hamiltonian systems that respect their underlying geometric properties, in particular symplecticity. We are also exploring how to discover unit-consistent expressions for Hamiltonians directly from data. Check out Paper [5].
 
-With [Nathan Kutz](https://scholar.google.com/citations?user=kfT42KEAAAAJ&hl=en) and a team of collaborators, we have worked on creating a common task framework for evaluating scientific machine learning architectures, in an effort to provide a standardized way to compare the performance of these algorithms. Check our Papers [1, 2, 3].
+With [Elie Abdo](https://sites.google.com/view/elie-abdo-website/) and other collaborators, I work on two main frameworks:
+- the analysis of nonlinear and nonlocal partial differential equations, addressing questions of well-posedness and long-time behavior of solutions, (see paper [4]), and 
+- the theory of (oft physics-informed) machine learning models, as demonstrated by paper [6] (and other projects in preparation!).
+
+With [Nathan Kutz](https://scholar.google.com/citations?user=kfT42KEAAAAJ&hl=en) and a team of collaborators, we have worked on creating a common task framework for evaluating scientific machine learning architectures, in an effort to provide a standardized way to compare the performance of these algorithms. Check out Papers [1, 2, 3].
 
 # Publications*
 <ol reversed>
