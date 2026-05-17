@@ -8,7 +8,7 @@ My work thus far can be viewed through the lens of three groups of collaborators
 With [Joseph Bakarji](https://www.josephbakarji.com/) and [Sara Najem](https://scholar.google.com/citations?user=SqWOv0cAAAAJ&hl=en), I have worked on developing data-driven techniques for the Hamiltonian systems that respect their underlying geometric properties (symplecticity) and explicitly impose dimensional consistency in discovering Hamiltonian expressions from data. Check out Paper [5].
 
 With [Elie Abdo](https://sites.google.com/view/elie-abdo-website/) and other collaborators, I work on two main frameworks:
-- the analysis of nonlinear and nonlocal partial differential equations, addressing questions of well-posedness and long-time behavior of solutions, (see paper [4]), and 
+- the analysis of nonlinear and nonlocal partial differential equations, addressing questions of well-posedness and long-time behavior of solutions (see paper [4]), and 
 - the theory of (oft physics-informed) machine learning models, as demonstrated by paper [6] (and other projects in preparation!).
 
 With [Nathan Kutz](https://scholar.google.com/citations?user=kfT42KEAAAAJ&hl=en) and a team of collaborators, we have worked on creating a common task framework for evaluating scientific machine learning architectures, in an effort to provide a standardized way to compare the performance of these algorithms. Check out Papers [1, 2, 3].
@@ -30,7 +30,8 @@ $^*$For the pure math papers, we adopt the convention of the community of listin
 ## Past Talks
 - "Exactly Periodic, Divergence-Free Neural Networks and Applications to PDEs," AUB Math Seminar (May 5, 2026). [abstract](https://www.aub.edu.lb/fas/math/Pages/ags.aspx), [recording](https://youtu.be/Knq42VFpE6k).
 - "Vector Calculus, with applications to Electromagnetism and Fluid Mechanics," presented at the American University of Beirut, as part of the Math Tutoring Center revision sessions (January 28, 2026).
-- "Building Physics-Respecting Neural Networks for Hamiltonian Systems," presented at the Scientific Forum 2025 at the Lebanese University (December 16, 2025).
+- "Building Physics-Respecting Neural Networks for Hamiltonian Systems," presented at the Scientific Forum 2025 at the Lebanese University (December 16, 2025). [recording](https://youtu.be/LMDq0ZabNIA). 
+  (Note: This talk was largely informal and targeted to STEM students at the Lebanese University; I used both English and Arabic.)
 - LaTeX Workshop, presented at the American University of Beirut, as part of an initiative by the Math Society (October 29, 2025).
 
 # Teaching Experience
