@@ -40,10 +40,10 @@ jobs:
           LANDING_DESCRIPTION: ""
           LANDING_PAGE: "./readme"
           LANDING_TITLE: "Joe's Notes"
-          REPO_URL: "https://github.com/joeGermany/JoeNotes"
+          REPO_URL: "https://github.com"
           SITE_TITLE: "Joe Germany"
           SITE_TITLE_TAB: ""
-          SITE_URL: "https://github.io" # Replace with your actual GitHub Pages URL
+          SITE_URL: "https://github.io" 
           TIMEZONE: "Asia/Hong_Kong"
           ZOLA_VERSION: "0.15.2"
           SORT_BY: "title"
@@ -85,9 +85,21 @@ jobs:
               },
             }
         run: |
-          rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true 
-          git clone https://github.com/joeGermany/obsidian-zola-plus.git __site 
-          __site/run.sh
+          # Create temporary folder and move content safely
+          mkdir -p __obsidian
+          find . -maxdepth 1 ! -name '.' ! -name '__obsidian' ! -name '.github' -exec mv {} __obsidian/ \; || true
+          
+          # Clone the theme runner
+          git clone https://github.com __site
+          
+          # Run the build script
+          chmod +x __site/run.sh
+          ./__site/run.sh
+          
+          # Ensure public folder exists
+          ls -la
+          ls -la public || echo "Public folder missing!"
+
 
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
