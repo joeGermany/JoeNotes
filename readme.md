@@ -15,7 +15,7 @@ With [Nathan Kutz](https://scholar.google.com/citations?user=kfT42KEAAAAJ&hl=en)
 
 My network of collaborators (including for work in progress)!
 ![Collaborators Graph](Collaborations/CollaborationGraph.jpg)
-Navigate to the [[Collaborators and Acknowledgements]] page, where I explain the construction of the graph and include acknowledgements to the mentors that have impacted me the most. 
+**Navigate to the [[Collaborators and Acknowledgements]] page, where I explain the construction of the graph and include acknowledgements to the mentors that have impacted me the most.** 
 
 # Publications*
 <ol reversed>
