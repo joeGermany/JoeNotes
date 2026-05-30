@@ -5,13 +5,17 @@ Broadly, I am interested in the intersections of machine learning, physics, and 
 
 My work thus far can be viewed through the lens of three groups of collaborators.
 
-With [Joseph Bakarji](https://www.josephbakarji.com/) and [Sara Najem](https://scholar.google.com/citations?user=SqWOv0cAAAAJ&hl=en), I have worked on developing data-driven techniques for the Hamiltonian systems that respect their underlying geometric properties (symplecticity) and explicitly impose dimensional consistency in discovering Hamiltonian expressions from data. Check out Paper [5].
+With [Joseph Bakarji](https://www.josephbakarji.com/) and [Sara Najem](https://scholar.google.com/citations?user=SqWOv0cAAAAJ&hl=en), I have worked on developing data-driven techniques for Hamiltonian systems that respect their underlying geometric properties (symplecticity) and explicitly impose dimensional consistency in discovering Hamiltonian expressions from data. Check out Paper [5].
 
 With [Elie Abdo](https://sites.google.com/view/elie-abdo-website/) and other collaborators, I work on two main frameworks:
 - the analysis of nonlinear and nonlocal partial differential equations, addressing questions of well-posedness and long-time behavior of solutions (see paper [4]), and 
 - the theory of (oft physics-informed) machine learning models, as demonstrated by paper [7] (and other projects in preparation!).
 
 With [Nathan Kutz](https://scholar.google.com/citations?user=kfT42KEAAAAJ&hl=en) and a team of collaborators, we have worked on creating a common task framework for evaluating scientific machine learning architectures, in an effort to provide a standardized way to compare the performance of these algorithms. Check out Papers [1, 2, 3, 6].
+
+My network of collaborators (including for work in progress)!
+![Collaborators Graph](Collaborations/CollaborationGraph.jpg)
+Navigate to the [[Collaborators and Acknowledgements]] page, where I explain the construction of the graph and include acknowledgements to the mentors that have impacted me the most. 
 
 # Publications*
 <ol reversed>
