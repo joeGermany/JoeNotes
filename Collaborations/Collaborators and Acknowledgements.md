@@ -3,7 +3,7 @@ I am extremely interested in the stories and social dynamics behind academic pap
 
 A first step towards that goal is to create my network of collaborators on all my papers, both preprinted/published and in progress!
 This is also a way for me to try to thank the people that have influenced my academic life substantially.
-![Collaborators Graph](Collaborations/CollaborationGraph.jpg)
+![Collaborators Graph](CollaborationGraph.jpg)
 (Edges emanating from me are people whom I have met myself through a program or a course, or as friends in AUB. The other edges denote the person that introduced me to the other.)
 
 Please entertain me by reading through some network theoretic statistics and/or puns:
