@@ -9,7 +9,7 @@ This is also a way for me to try to thank the people that have influenced my aca
 Please entertain me by reading through some network theoretic statistics and/or puns:
 - The node with the highest betweeness centrality is Prof. Sara Najem, through which the greatest number shortest paths pass and without whom my academic experience would be unimaginably different.
 - My longest chain is: ``Me-Sara-Joseph-Nathan-CTF Group``, which is insanely satisfying to look at.
-- If we, instead, think of the simplicial complex constructed from coauthors on my papers, the biggest simplicies are those resulting from the CTF4Seismology and CTF4Nuclear papers (see papers [3] and [6] respectively in [[readme]]), which are both 16-simplices. This is an unjustifiably fancy way of saying that these are my papers with the most coauthors.
+- If we, instead, think of the simplicial complex constructed from coauthors on my papers, the biggest simplices are those resulting from the CTF4Seismology and CTF4Nuclear papers (see papers [3] and [6] respectively in [[readme]]), which are both 16-simplices. This is an unjustifiably fancy way of saying that these are my papers with the most coauthors.
 (This section will be updated when I think of more puns.)
 
 I have personally first met:
