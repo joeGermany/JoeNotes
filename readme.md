@@ -19,8 +19,8 @@ My network of collaborators (including for work in progress)!
 
 # Publications*
 <ol reversed>
-  <li>E. Abdo, <strong>J. Germany</strong>, Q. Lin. <em>Magnetically Forced Electroconvection on Bounded Domains</em>, submitted, 2026.</li>
-  <li><strong>J. Germany</strong>, E. Abdo, J. Bakarji. <em>EML Trees are Universal Approximators</em>, submitted, 2026.</li>
+  <li>E. Abdo, <strong>J. Germany</strong>, Q. Lin. <em>Magnetically Forced Electroconvection on Bounded Domains</em>, submitted, 2026. </li>
+  <li><strong>J. Germany</strong>, E. Abdo, J. Bakarji. <em>EML Trees are Universal Approximators</em>, submitted, 2026. <a href="https://arxiv.org/pdf/2606.23179">preprint</a></li>
   <li>S. Riva, C. Introini, A. Cammi, D. Price, A. Yermakov, Y. Zhao, P. M. Wyder, J. Goldfeder, J. Williams, A. S. Rude, M. Tomasetto, <strong>J. Germany</strong>, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz, <em>CTF4Nuclear: Common Task Framework for Nuclear Fission and Fusion Models</em>, submitted, 2026. <a href="https://arxiv.org/abs/2605.15549">preprint</a></li>
   <li><strong>J. Germany</strong>, J. Bakarji, S. Najem. <em>Discovery of Symbolic Hamiltonian Expressions with Buckingham-Symplectic Networks</em>, submitted, 2026. <a href="https://arxiv.org/abs/2604.00576">preprint</a></li>
   <li>E. Abdo, <strong>J. Germany</strong>, M. K. Hamdan, K. Kontar, <em>Long-time dynamics of the Nernst-Planck-Darcy System on </em>ℝ³, submitted, 2026. <a href="https://arxiv.org/abs/2601.02208">preprint</a></li>
