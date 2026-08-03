@@ -23,17 +23,16 @@ My network of collaborators (including for work in progress)!
   <li><strong>J. Germany</strong>, E. Abdo, J. Bakarji. <em>EML Trees are Universal Approximators</em>, submitted, 2026. <a href="https://arxiv.org/pdf/2606.23179">preprint</a></li>
   <li>S. Riva, C. Introini, A. Cammi, D. Price, A. Yermakov, Y. Zhao, P. M. Wyder, J. Goldfeder, J. Williams, A. S. Rude, M. Tomasetto, <strong>J. Germany</strong>, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz. <em>CTF4Nuclear: Common Task Framework for Nuclear Fission and Fusion Models</em>, submitted, 2026. <a href="https://arxiv.org/abs/2605.15549">preprint</a></li>
   <li><strong>J. Germany</strong>, J. Bakarji, S. Najem. <em>Discovery of Symbolic Hamiltonian Expressions with Buckingham-Symplectic Networks</em>, submitted, 2026. <a href="https://arxiv.org/abs/2604.00576">preprint</a></li>
-  <li>E. Abdo, <strong>J. Germany</strong>, M. K. Hamdan, K. Kontar. <em>Long-time dynamics of the Nernst-Planck-Darcy System on </em>ℝ³, to appear in <strong>Physica D: Nonlinear Phenomena</strong>, 2026. <a href="https://arxiv.org/abs/2601.02208">preprint</a></li>
+  <li>E. Abdo, <strong>J. Germany</strong>, M. K. Hamdan, K. Kontar. <em>Long-time dynamics of the Nernst-Planck-Darcy System on </em>ℝ³, <strong>Physica D: Nonlinear Phenomena</strong>, 2026. <a href="https://arxiv.org/abs/2601.02208">preprint</a>; <a href="https://www.sciencedirect.com/science/article/pii/S0167278926002162">paper</a></li>
   <li>A. Yermakov, Y. Zhao, M. Denolle, Y. Ni, P. M. Wyder, J. Goldfeder, S. Riva, J. Williams, D. Zoro, A. S. Rude, M. Tomasetto, <strong>J. Germany</strong>, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz. <em>The Seismic Wavefield Common Task Framework</em>, in <strong>International Conference on Learning Representations</strong>, 2026. <a href="https://arxiv.org/abs/2512.19927">preprint</a>; <a href="https://openreview.net/pdf?id=u4N7Kl6gzE">proceedings</a></li>
   <li>P. M. Wyder, J. A. Goldfeder, A. Yermakov, Y. Zhao, S. Riva, J. P. Williams, D. Zoro, A. S. Rude, M. Tomasetto, <strong>J. Germany</strong>, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz. <em>Common Task Framework For a Critical Evaluation of Scientific Machine Learning Algorithms</em>, in <strong>Thirty-ninth Annual Conference on Neural Information Processing Systems</strong>, 2025. <a href="https://arxiv.org/abs/2510.23166">preprint</a>; <a href="https://openreview.net/forum?id=pkFKjmUE3L">proceedings</a></li>
-  <li>P. M. Wyder, J. A. Goldfeder, A. Yermakov, Y. Zhao, S. Riva, J. P. Williams, D. Zoro, A. S. Rude, M. Tomasetto, <strong>J. Germany</strong>, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz. <em>Common Task Framework For a Critical Evaluation of Scientific Machine Learning Algorithms</em>, <strong>Championing Open-source Development in ML Workshop @ ICML 2025</strong>. <a href="https://openreview.net/forum?id=licgHdwg5y">proceedings</a></li>
+  <li>P. M. Wyder, J. A. Goldfeder, A. Yermakov, Y. Zhao, S. Riva, J. P. Williams, D. Zoro, A. S. Rude, M. Tomasetto, <strong>J. Germany</strong>, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz. <em>Common Task Framework For a Critical Evaluation of Scientific Machine Learning Algorithms</em>, in <strong>Championing Open-source Development in ML Workshop @ ICML 2025</strong>. <a href="https://openreview.net/forum?id=licgHdwg5y">proceedings</a></li>
 </ol>
 $^*$For the pure math papers, we adopt the convention of the community of listing authors in alphabetical order.
 
 # Talks
-## Upcoming Talks
-- (Upcoming) "What Functions can be Represented as Compositions of Other Functions?", Lebanese Mathematics Day (Summer 2026), including presenting results from our EML paper [7].
-## Past Talks
+- "What Functions can be Represented as Compositions of Other Functions?", First Lebanese Mathematics Day at the American University of Beirut (July 25, 2026), including presenting results from our EML paper [7]. [recording](https://youtu.be/QKek7gkOwwQ)
+- "Long-Time Dynamics of the Nernst-Planck-Darcy System on $\mathbb{R}^3$," First Lebanese Mathematics Day at the American University of Beirut (July 25, 2026), on our paper [4].
 - "Exactly Periodic, Divergence-Free Neural Networks and Applications to PDEs," AUB Math Seminar (May 5, 2026). [abstract](https://www.aub.edu.lb/fas/math/Pages/ags.aspx), [recording](https://youtu.be/Knq42VFpE6k).
 - "Vector Calculus, with applications to Electromagnetism and Fluid Mechanics," presented at the American University of Beirut, as part of the Math Tutoring Center revision sessions (January 28, 2026).
 - "Building Physics-Respecting Neural Networks for Hamiltonian Systems," presented at the Scientific Forum 2025 at the Lebanese University (December 16, 2025). [recording](https://youtu.be/LMDq0ZabNIA). 
@@ -51,8 +50,11 @@ $^*$For the pure math papers, we adopt the convention of the community of listin
 	- Summer 2026
 	- Spring 2026
 	- Fall 2025
+- High School Math Summer Camp (AUB, Math Department):
+	- Facilitator and Research Assistant, Summer 2026 (helped guide students through long-form problems, on which they presented posters at the end of the camp)
+	- Facilitator, Summer 2025
+- Earth Sciences Camp 2026: Gave a 6 hour crash course (to 25 students) on the basics of programming in Python, a taste of scientific computing, and an introduction into linear regression (with application to water quality data).
 - Administrative Assistant in the Engineering Tutoring Center at AUB during Summer 2026.
-- Facilitator in the High School Math Summer Camp, organized at AUB during Summer 2025.
 
 # Education
 - Currently enrolled (started Fall 2024) in a B.S in Mathematics and Physics (double major), American University of Beirut 
