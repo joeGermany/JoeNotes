@@ -31,12 +31,15 @@ My network of collaborators (including for work in progress)!
 $^*$For the pure math papers, we adopt the convention of the community of listing authors in alphabetical order.
 
 # Talks
+## Research Talks
+- "EML Trees are Universal Approximators," virtual invited talk for ENIQ (AI student organization) at the National University of Colombia (August 7, 2026).
 - "What Functions can be Represented as Compositions of Other Functions?", First Lebanese Mathematics Day at the American University of Beirut (July 25, 2026), including presenting results from our EML paper [7]. [recording](https://youtu.be/QKek7gkOwwQ)
 - "Long-Time Dynamics of the Nernst-Planck-Darcy System on $\mathbb{R}^3$," First Lebanese Mathematics Day at the American University of Beirut (July 25, 2026), on our paper [4].
 - "Exactly Periodic, Divergence-Free Neural Networks and Applications to PDEs," AUB Math Seminar (May 5, 2026). [abstract](https://www.aub.edu.lb/fas/math/Pages/ags.aspx), [recording](https://youtu.be/Knq42VFpE6k).
-- "Vector Calculus, with applications to Electromagnetism and Fluid Mechanics," presented at the American University of Beirut, as part of the Math Tutoring Center revision sessions (January 28, 2026).
 - "Building Physics-Respecting Neural Networks for Hamiltonian Systems," presented at the Scientific Forum 2025 at the Lebanese University (December 16, 2025). [recording](https://youtu.be/LMDq0ZabNIA). 
   (Note: This talk was largely informal and targeted to STEM students at the Lebanese University; I used both English and Arabic.)
+## Other Talks
+- "Vector Calculus, with applications to Electromagnetism and Fluid Mechanics," presented at the American University of Beirut, as part of the Math Tutoring Center revision sessions (January 28, 2026).
 - LaTeX Workshop, presented at the American University of Beirut, as part of an initiative by the Math Society (October 29, 2025).
 
 # Teaching Experience
