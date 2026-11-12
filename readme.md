@@ -20,22 +20,14 @@ My network of collaborators (including for work in progress)!
 # Publications*
 <ol reversed>
 	<li><strong>J. Germany</strong>, M. Al Sayed, R. Dbouk, A. E. Mouawad, S. Najem. <em>A Hierarchy of Fast and Strong Signatures for Vertex Orbits</em>, submitted, 2026. <a href="https://arxiv.org/pdf/2611.12653">preprint</a></li>
-	
 	<li>E. Abdo, <strong>J. Germany</strong>, Q. Lin. <em>Magnetically Forced Electroconvection on Bounded Domains</em>, submitted, 2026. <a href="https://drive.google.com/file/d/1pcsg1kH0qPvQF1hhz_hcIO_c1JbTMZz2/view?usp=sharing">preprint</a></li>
-
 	<li><strong>J. Germany</strong>, E. Abdo, J. Bakarji. <em>EML Trees are Universal Approximators</em>, submitted, 2026. <a href="https://arxiv.org/pdf/2606.23179">preprint</a></li>
-
 	<li>S. Riva, C. Introini, A. Cammi, D. Price, A. Yermakov, Y. Zhao, P. M. Wyder, J. Goldfeder, J. Williams, A. S. Rude, M. Tomasetto, <strong>J. Germany</strong>, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz. <em>CTF4Nuclear: Common Task Framework for Nuclear Fission and Fusion Models</em>, submitted, 2026. <a href="https://arxiv.org/abs/2605.15549">preprint</a></li>
-  
-	  <li><strong>J. Germany</strong>, J. Bakarji, S. Najem. <em>Discovery of Symbolic Hamiltonian Expressions with Buckingham-Symplectic Networks</em>, submitted, 2026. <a href="https://arxiv.org/abs/2604.00576">preprint</a></li>
-  
-	  <li>E. Abdo, <strong>J. Germany</strong>, M. K. Hamdan, K. Kontar. <em>Long-time dynamics of the Nernst-Planck-Darcy System on </em>ℝ³, <strong>Physica D: Nonlinear Phenomena</strong>, 2026. <a href="https://arxiv.org/abs/2601.02208">preprint</a>; <a href="https://www.sciencedirect.com/science/article/pii/S0167278926002162">paper</a></li>
-  
-	  <li>A. Yermakov, Y. Zhao, M. Denolle, Y. Ni, P. M. Wyder, J. Goldfeder, S. Riva, J. Williams, D. Zoro, A. S. Rude, M. Tomasetto, <strong>J. Germany</strong>, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz. <em>The Seismic Wavefield Common Task Framework</em>, in <strong>International Conference on Learning Representations</strong>, 2026. <a href="https://arxiv.org/abs/2512.19927">preprint</a>; <a href="https://openreview.net/pdf?id=u4N7Kl6gzE">proceedings</a></li>
-  
-	  <li>P. M. Wyder, J. A. Goldfeder, A. Yermakov, Y. Zhao, S. Riva, J. P. Williams, D. Zoro, A. S. Rude, M. Tomasetto, <strong>J. Germany</strong>, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz. <em>Common Task Framework For a Critical Evaluation of Scientific Machine Learning Algorithms</em>, in <strong>Thirty-ninth Annual Conference on Neural Information Processing Systems</strong>, 2025. <a href="https://arxiv.org/abs/2510.23166">preprint</a>; <a href="https://openreview.net/forum?id=pkFKjmUE3L">proceedings</a></li>
-  
-	  <li>P. M. Wyder, J. A. Goldfeder, A. Yermakov, Y. Zhao, S. Riva, J. P. Williams, D. Zoro, A. S. Rude, M. Tomasetto, <strong>J. Germany</strong>, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz. <em>Common Task Framework For a Critical Evaluation of Scientific Machine Learning Algorithms</em>, in <strong>Championing Open-source Development in ML Workshop @ ICML 2025</strong>. <a href="https://openreview.net/forum?id=licgHdwg5y">proceedings</a></li>
+	<li><strong>J. Germany</strong>, J. Bakarji, S. Najem. <em>Discovery of Symbolic Hamiltonian Expressions with Buckingham-Symplectic Networks</em>, submitted, 2026. <a href="https://arxiv.org/abs/2604.00576">preprint</a></li>
+	<li>E. Abdo, <strong>J. Germany</strong>, M. K. Hamdan, K. Kontar. <em>Long-time dynamics of the Nernst-Planck-Darcy System on </em>ℝ³, <strong>Physica D: Nonlinear Phenomena</strong>, 2026. <a href="https://arxiv.org/abs/2601.02208">preprint</a>; <a href="https://www.sciencedirect.com/science/article/pii/S0167278926002162">paper</a></li>
+	<li>A. Yermakov, Y. Zhao, M. Denolle, Y. Ni, P. M. Wyder, J. Goldfeder, S. Riva, J. Williams, D. Zoro, A. S. Rude, M. Tomasetto, <strong>J. Germany</strong>, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz. <em>The Seismic Wavefield Common Task Framework</em>, in <strong>International Conference on Learning Representations</strong>, 2026. <a href="https://arxiv.org/abs/2512.19927">preprint</a>; <a href="https://openreview.net/pdf?id=u4N7Kl6gzE">proceedings</a></li>
+	<li>P. M. Wyder, J. A. Goldfeder, A. Yermakov, Y. Zhao, S. Riva, J. P. Williams, D. Zoro, A. S. Rude, M. Tomasetto, <strong>J. Germany</strong>, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz. <em>Common Task Framework For a Critical Evaluation of Scientific Machine Learning Algorithms</em>, in <strong>Thirty-ninth Annual Conference on Neural Information Processing Systems</strong>, 2025. <a href="https://arxiv.org/abs/2510.23166">preprint</a>; <a href="https://openreview.net/forum?id=pkFKjmUE3L">proceedings</a></li>
+	<li>P. M. Wyder, J. A. Goldfeder, A. Yermakov, Y. Zhao, S. Riva, J. P. Williams, D. Zoro, A. S. Rude, M. Tomasetto, <strong>J. Germany</strong>, J. Bakarji, G. Maierhofer, M. Cranmer, J. N. Kutz. <em>Common Task Framework For a Critical Evaluation of Scientific Machine Learning Algorithms</em>, in <strong>Championing Open-source Development in ML Workshop @ ICML 2025</strong>. <a href="https://openreview.net/forum?id=licgHdwg5y">proceedings</a></li>
 </ol>
 $^*$For the pure math papers, we adopt the convention of the community of listing authors in alphabetical order.
 
