@@ -12,6 +12,7 @@ LANDING_PAGE = "./readme"
 # (Optional) Site title on landing page
 LANDING_TITLE = "Joe's Notes"
 PYTHON_VERSION = "3.8"
+MISE_PYTHON_GITHUB_ATTESTATIONS = "false"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/joeGermany/JoeNotes"
 # (Optional) Site title in navbar
