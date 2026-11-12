@@ -1,15 +1,17 @@
 I am Joe Germany, a third-year undergraduate student at the American University of Beirut, double majoring in Mathematics and Physics.
 
 # Research Interests
-Broadly, I am interested in the intersections of machine learning, physics, and rigorous mathematics. My "basin of attraction" is around machine learning algorithms in application to physics and PDEs. Concretely, I have worked on developing algorithms for better evolution of Hamiltonian systems (by embedding dimensional constraints and symplecticity), and also on the rigorous analysis of neural network-based solvers for partial differential equations (with strict imposition of periodicity or divergence-free properties).
+Broadly, I am interested in the intersections of machine learning, physics, and rigorous mathematics. My "basin of attraction" is around machine learning algorithms in application to physics and PDEs, but I greatly enjoy wandering off into new areas!
 
-My work thus far can be viewed through the lens of three groups of collaborators.
+My work thus far can be viewed through the lens of four groups of collaborators.
 
 With [Joseph Bakarji](https://www.josephbakarji.com/) and [Sara Najem](https://scholar.google.com/citations?user=SqWOv0cAAAAJ&hl=en), I have worked on developing data-driven techniques for Hamiltonian systems that respect their underlying geometric properties (symplecticity) and explicitly impose dimensional consistency in discovering Hamiltonian expressions from data. Check out Paper [5].
 
 With [Elie Abdo](https://sites.google.com/view/elie-abdo-website/) and other collaborators, I work on two main frameworks:
-- the analysis of nonlinear and nonlocal partial differential equations, addressing questions of well-posedness and long-time behavior of solutions (see paper [4]), and 
+- the analysis of nonlinear and nonlocal partial differential equations, addressing questions of well-posedness and long-time behavior of solutions (see papers [4, 8]), and 
 - the theory of (oft physics-informed) machine learning models, as demonstrated by paper [7] (and other projects in preparation!).
+
+With [Sara Najem](https://scholar.google.com/citations?user=SqWOv0cAAAAJ&hl=en) (again :)), [Amer Mouawad](https://scholar.google.com/citations?user=MK6WseUAAAAJ&hl=en), and an incredible team, we have tried to attack the graph isomorphism problem (and the related vertex orbit partition problem) through diffusion-based signatures. We delineate the construction of the signatures and report extensive numerical experiments in paper [9]. We are working on follow-ups to better understand the strengths and limitations of our signatures and where they can lead us theoretically. Stay tuned!
 
 With [Nathan Kutz](https://scholar.google.com/citations?user=kfT42KEAAAAJ&hl=en) and a team of collaborators, we have worked on creating a common task framework for evaluating scientific machine learning architectures, in an effort to provide a standardized way to compare the performance of these algorithms. Check out Papers [1, 2, 3, 6].
 
@@ -45,12 +47,17 @@ $^*$For the pure math papers, we adopt the convention of the community of listin
 
 # Teaching Experience
 - Teaching Assistant (American University of Beirut):
+	- Fall 2026:
+		- Physics 222: Computational Physics (Sara Najem)
+		- EECE 490: Introduction to Machine Learning (Joseph Bakarji)
+		- EECE 798K: Data-Driven Modeling in Science and Engineering (Joseph Bakarji)
 	- Spring 2026:
 		- EECE 798K: Data-Driven Modeling in Science and Engineering (Joseph Bakarji)
 	- Fall 2025:
 		- EECE 490: Introduction to Machine Learning (Joseph Bakarji)
 		- Physics 222: Computational Physics (Sara Najem)
 - Math Tutor at AUB’s Math Tutoring Center, helping with single- and multi-variable calculus, linear algebra, ordinary differential equations, and proof-based courses (honors linear algebra and real analysis).
+	- Fall 2026
 	- Summer 2026
 	- Spring 2026
 	- Fall 2025
@@ -59,6 +66,7 @@ $^*$For the pure math papers, we adopt the convention of the community of listin
 	- Facilitator, Summer 2025
 - Earth Sciences Camp 2026: Gave a 6 hour crash course (to 25 students) on the basics of programming in Python, a taste of scientific computing, and an introduction into linear regression (with application to water quality data).
 - Administrative Assistant in the Engineering Tutoring Center at AUB during Summer 2026.
+- Python Crash Course for the incoming batch of students to the Graduate Program in Computational Science and to senior-year Physics students (6 hours; August 2026)
 
 # Education
 - Currently enrolled (started Fall 2024) in a B.S in Mathematics and Physics (double major), American University of Beirut 
